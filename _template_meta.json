@@ -1,0 +1,5514 @@
+{
+  "paragraphs": [
+    {
+      "index": 276,
+      "start": 11469,
+      "end": 11480,
+      "page": 13,
+      "style": "Heading 1",
+      "text": "CHAPTER- I",
+      "words": 2,
+      "chars": 10
+    },
+    {
+      "index": 278,
+      "start": 11481,
+      "end": 11494,
+      "page": 13,
+      "style": "Heading 2",
+      "text": "INTRODUCTION",
+      "words": 1,
+      "chars": 12
+    },
+    {
+      "index": 279,
+      "start": 11494,
+      "end": 11507,
+      "page": 13,
+      "style": "Heading 2",
+      "text": "INTRODUCTION",
+      "words": 2,
+      "chars": 12
+    },
+    {
+      "index": 281,
+      "start": 11508,
+      "end": 11988,
+      "page": 13,
+      "style": "Body Text",
+      "text": "The Education Beyond Borders is an innovative initiative designed to bridge the global gap in access to quality education. In an increasingly interconnected world, millions of learners still face barriers due to geography, economic limitations, cultural constraints, and lack of educational infrastructure. This project aims to overcome these challenges by promoting inclusive, technology-driven learning opportunities that reach students beyond traditional classroom boundaries.",
+      "words": 62,
+      "chars": 479
+    },
+    {
+      "index": 283,
+      "start": 11989,
+      "end": 12497,
+      "page": 13,
+      "style": "Body Text",
+      "text": "At its core, Education Beyond Borders seeks to create a global learning community where knowledge, ideas, and resources can be shared freely across nations. By integrating digital platforms, online courses, virtual classrooms, and open educational resources, the initiative provides students with flexible and accessible learning environments. It also fosters cross-cultural collaboration, allowing learners from diverse backgrounds to interact, exchange perspectives, and develop global citizenship skills.",
+      "words": 65,
+      "chars": 507
+    },
+    {
+      "index": 285,
+      "start": 12498,
+      "end": 13050,
+      "page": 13,
+      "style": "Body Text",
+      "text": "Furthermore, the project emphasizes equity and inclusion, focusing on marginalized groups such as girls, refugees, rural communities, and economically disadvantaged learners. Through partnerships with schools, universities, NGOs, and technology providers, Education Beyond Borders works to ensure that no learner is left behind due to circumstances of birth or location. Overall, this project highlights the transformative power of education in creating opportunities, reducing inequalities, and building a more connected and empowered global society.",
+      "words": 72,
+      "chars": 551
+    },
+    {
+      "index": 287,
+      "start": 13051,
+      "end": 13076,
+      "page": 14,
+      "style": "Heading 2",
+      "text": "OBJECTIVE OF THE PROJECT",
+      "words": 5,
+      "chars": 24
+    },
+    {
+      "index": 288,
+      "start": 13076,
+      "end": 13128,
+      "page": 14,
+      "style": "Heading 4",
+      "text": "The main objectives of this project are as follows:",
+      "words": 9,
+      "chars": 51
+    },
+    {
+      "index": 290,
+      "start": 13129,
+      "end": 13272,
+      "page": 14,
+      "style": "List Paragraph",
+      "text": "To provide equal access to quality education for students across different countries, especially those in remote, rural, or underserved areas.",
+      "words": 21,
+      "chars": 142
+    },
+    {
+      "index": 292,
+      "start": 13273,
+      "end": 13418,
+      "page": 14,
+      "style": "List Paragraph",
+      "text": "To remove geographical, financial, and cultural barriers that limit learning opportunities and prevent students from receiving proper education.",
+      "words": 19,
+      "chars": 144
+    },
+    {
+      "index": 294,
+      "start": 13419,
+      "end": 13582,
+      "page": 14,
+      "style": "List Paragraph",
+      "text": "To promote digital learning platforms, including online courses, virtual classrooms, and e-learning resources, to make education flexible and globally accessible.",
+      "words": 21,
+      "chars": 162
+    },
+    {
+      "index": 296,
+      "start": 13583,
+      "end": 13736,
+      "page": 14,
+      "style": "List Paragraph",
+      "text": "To encourage cross-cultural interaction and global collaboration among students and teachers, fostering understanding, teamwork, and global citizenship.",
+      "words": 18,
+      "chars": 152
+    },
+    {
+      "index": 298,
+      "start": 13737,
+      "end": 13909,
+      "page": 14,
+      "style": "List Paragraph",
+      "text": "To support marginalized and vulnerable groups, such as refugees, girls, and economically disadvantaged learners, by offering inclusive and accessible educational pathways.",
+      "words": 22,
+      "chars": 171
+    },
+    {
+      "index": 302,
+      "start": 13912,
+      "end": 13939,
+      "page": 14,
+      "style": "Heading 2",
+      "text": "ORGANIZATION OF THE THESIS",
+      "words": 5,
+      "chars": 26
+    },
+    {
+      "index": 304,
+      "start": 13940,
+      "end": 13986,
+      "page": 14,
+      "style": "Body Text",
+      "text": "The thesis is structured into seven chapters.",
+      "words": 7,
+      "chars": 45
+    },
+    {
+      "index": 306,
+      "start": 13987,
+      "end": 14012,
+      "page": 14,
+      "style": "Heading 3",
+      "text": "Chapter 1 – Introduction",
+      "words": 3,
+      "chars": 24
+    },
+    {
+      "index": 308,
+      "start": 14013,
+      "end": 14298,
+      "page": 14,
+      "style": "Body Text",
+      "text": "This chapter provides an overview of the project, including background information, problem definition, objectives, significance, and the overall motivation behind Education Beyond Borders. It also highlights the need for accessible, inclusive, and cross-border educational solutions.",
+      "words": 35,
+      "chars": 284
+    },
+    {
+      "index": 310,
+      "start": 14299,
+      "end": 14329,
+      "page": 14,
+      "style": "Heading 3",
+      "text": "Chapter 2 – Literature Review",
+      "words": 4,
+      "chars": 29
+    },
+    {
+      "index": 312,
+      "start": 14330,
+      "end": 14631,
+      "page": 14,
+      "style": "Body Text",
+      "text": "This chapter presents a review of existing research, studies, and global initiatives related to digital learning, cross-border education, virtual classrooms, and inclusive educational technologies. It identifies current challenges, existing solutions, and gaps that justify the need for this project.",
+      "words": 39,
+      "chars": 300
+    },
+    {
+      "index": 314,
+      "start": 14632,
+      "end": 14653,
+      "page": 14,
+      "style": "Heading 3",
+      "text": "Chapter 3 – Analysis",
+      "words": 3,
+      "chars": 20
+    },
+    {
+      "index": 316,
+      "start": 14654,
+      "end": 14899,
+      "page": 15,
+      "style": "Body Text",
+      "text": "This chapter focuses on the system analysis of the project. It includes requirement analysis, problem analysis, user needs, feasibility study, and identification of functional and non-functional requirements essential for developing the system.",
+      "words": 32,
+      "chars": 244
+    },
+    {
+      "index": 318,
+      "start": 14900,
+      "end": 14919,
+      "page": 15,
+      "style": "Heading 3",
+      "text": "Chapter 4 – Design",
+      "words": 3,
+      "chars": 18
+    },
+    {
+      "index": 320,
+      "start": 14920,
+      "end": 15167,
+      "page": 15,
+      "style": "Body Text",
+      "text": "This chapter discusses the architectural and system design of the proposed model. It includes system architecture, UML diagrams, data flow diagrams, interface design, and the structural plan for implementing the Education Beyond Borders platform.",
+      "words": 34,
+      "chars": 246
+    },
+    {
+      "index": 322,
+      "start": 15168,
+      "end": 15207,
+      "page": 15,
+      "style": "Heading 3",
+      "text": "Chapter 5 – Implementation and Results",
+      "words": 5,
+      "chars": 38
+    },
+    {
+      "index": 324,
+      "start": 15208,
+      "end": 15460,
+      "page": 15,
+      "style": "Body Text",
+      "text": "This chapter describes how the system was developed and implemented using the selected tools and technologies. It explains the modules, algorithms, interfaces, and integration process. Results, outputs, and performance observations are also presented.",
+      "words": 33,
+      "chars": 251
+    },
+    {
+      "index": 326,
+      "start": 15461,
+      "end": 15496,
+      "page": 15,
+      "style": "Heading 3",
+      "text": "Chapter 6 – Testing and Validation",
+      "words": 5,
+      "chars": 34
+    },
+    {
+      "index": 328,
+      "start": 15497,
+      "end": 15718,
+      "page": 15,
+      "style": "Body Text",
+      "text": "This chapter outlines the testing strategies used to validate the system. It includes test cases, testing methods, error handling, system validation, and evaluation of whether the system meets the specified requirements.",
+      "words": 31,
+      "chars": 220
+    },
+    {
+      "index": 330,
+      "start": 15719,
+      "end": 15742,
+      "page": 15,
+      "style": "Heading 3",
+      "text": "Chapter 7 – Conclusion",
+      "words": 3,
+      "chars": 22
+    },
+    {
+      "index": 332,
+      "start": 15743,
+      "end": 15958,
+      "page": 15,
+      "style": "Body Text",
+      "text": "This chapter summarizes the overall project, key findings, contributions, and outcomes. It also discusses limitations and provides recommendations for future enhancements of the Education Beyond Borders initiative.",
+      "words": 27,
+      "chars": 214
+    },
+    {
+      "index": 334,
+      "start": 15959,
+      "end": 15971,
+      "page": 16,
+      "style": "Heading 1",
+      "text": "CHAPTER- II",
+      "words": 2,
+      "chars": 11
+    },
+    {
+      "index": 336,
+      "start": 15972,
+      "end": 16011,
+      "page": 16,
+      "style": "Heading 2",
+      "text": "LITERATURE SURVEY 2.1LITERATURE SURVEY",
+      "words": 4,
+      "chars": 38
+    },
+    {
+      "index": 337,
+      "start": 16011,
+      "end": 16542,
+      "page": 16,
+      "style": "Body Text",
+      "text": "The concept of Education Beyond Borders draws from a wide range of studies on digital learning, global education systems, and technology-enabled instructional models. Over the past two decades, researchers have emphasized the growing need for flexible and inclusive learning environments that overcome geographical and socio-economic barriers. Studies on e-learning platforms highlight that digital education significantly improves access to quality learning resources, particularly for students in remote and underserved regions.",
+      "words": 69,
+      "chars": 530
+    },
+    {
+      "index": 339,
+      "start": 16543,
+      "end": 17102,
+      "page": 16,
+      "style": "Body Text",
+      "text": "Several international initiatives, such as Massive Open Online Courses (MOOCs), Open Educational Resources (OER), and global virtual classrooms, demonstrate the potential of technology to unify learners across borders. Research indicates that these platforms promote self-paced learning, collaboration, and opportunities for skill development irrespective of physical location. Furthermore, literature on cross-cultural education shows that global learning environments enhance communication skills, cultural awareness, and global citizenship among students.",
+      "words": 66,
+      "chars": 558
+    },
+    {
+      "index": 341,
+      "start": 17103,
+      "end": 17647,
+      "page": 16,
+      "style": "Body Text",
+      "text": "In addition, studies on mobile learning and digital inclusion emphasize the importance of accessibility and affordability in reaching marginalized communities. The integration of multilingual content, interactive tools, and low-bandwidth solutions has been found to greatly improve participation and learning outcomes. Overall, the reviewed literature underscores the need for innovative, technology-driven educational frameworks that expand learning opportunities beyond traditional boundaries and support equitable global access to knowledge",
+      "words": 66,
+      "chars": 543
+    },
+    {
+      "index": 343,
+      "start": 17648,
+      "end": 17663,
+      "page": 17,
+      "style": "Heading 2",
+      "text": "EXISTING WORKS",
+      "words": 3,
+      "chars": 14
+    },
+    {
+      "index": 345,
+      "start": 17664,
+      "end": 17946,
+      "page": 17,
+      "style": "Body Text",
+      "text": "Several existing initiatives and systems have attempted to address the global inequality in access to education. Most of these works focus on digital learning platforms, open educational resources, and global online communities that connect learners across geographical boundaries.",
+      "words": 38,
+      "chars": 281
+    },
+    {
+      "index": 347,
+      "start": 17947,
+      "end": 18496,
+      "page": 17,
+      "style": "Body Text",
+      "text": "One of the most widely recognized efforts is the development of Massive Open Online Courses (MOOCs) offered by platforms such as Coursera, edX, and Udemy. These platforms provide free and paid courses to millions of learners worldwide, offering flexibility, self-paced learning, and access to high-quality educational content developed by leading universities. Although MOOCs support global education, they often face limitations such as language barriers, lack of personalized support, and technological accessibility issues in low-income regions.",
+      "words": 75,
+      "chars": 548
+    },
+    {
+      "index": 349,
+      "start": 18497,
+      "end": 18864,
+      "page": 17,
+      "style": "Body Text",
+      "text": "Another major contribution comes from Open Educational Resources (OER) initiatives such as MIT OpenCourseWare and UNESCO’s OER program. These projects promote free sharing of textbooks, lecture videos, and academic materials. While OER enhances knowledge accessibility, many learners still struggle with limited internet availability and insufficient digital skills.",
+      "words": 47,
+      "chars": 366
+    },
+    {
+      "index": 351,
+      "start": 18865,
+      "end": 19225,
+      "page": 17,
+      "style": "Body Text",
+      "text": "Additionally, virtual classroom tools such as Google Classroom, Microsoft Teams, and Zoom have enabled teachers and students to collaborate across borders, especially during the COVID-19 pandemic. Although effective, these tools mostly focus on classroom management and real-time communication rather than creating a complete cross-border education ecosystem.",
+      "words": 46,
+      "chars": 359
+    },
+    {
+      "index": 353,
+      "start": 19226,
+      "end": 19534,
+      "page": 17,
+      "style": "Body Text",
+      "text": "Overall, existing systems provide valuable foundations but lack a unified, inclusive platform that supports global collaboration, multilingual learning, accessibility for marginalized communities, and comprehensive digital inclusion—highlighting the need for an integrated Education Beyond Borders solution.",
+      "words": 36,
+      "chars": 307
+    },
+    {
+      "index": 355,
+      "start": 19535,
+      "end": 19565,
+      "page": 18,
+      "style": "Heading 2",
+      "text": "LIMITATIONS OF EXISTING WORKS",
+      "words": 5,
+      "chars": 29
+    },
+    {
+      "index": 357,
+      "start": 19566,
+      "end": 19775,
+      "page": 18,
+      "style": "Body Text",
+      "text": "Although several digital learning platforms and global education initiatives exist, they face numerous limitations that restrict their ability to deliver fully accessible, inclusive, and borderless education.",
+      "words": 26,
+      "chars": 208
+    },
+    {
+      "index": 359,
+      "start": 19776,
+      "end": 19831,
+      "page": 18,
+      "style": "Heading 5",
+      "text": "Limited Accessibility in Remote and Low-Income Regions",
+      "words": 8,
+      "chars": 54
+    },
+    {
+      "index": 360,
+      "start": 19831,
+      "end": 20058,
+      "page": 18,
+      "style": "Body Text",
+      "text": "Many existing platforms require stable internet connectivity, modern devices, and digital literacy. Learners in rural, remote, or economically disadvantaged areas often lack these resources, making it difficult to participate.",
+      "words": 29,
+      "chars": 226
+    },
+    {
+      "index": 361,
+      "start": 20058,
+      "end": 20089,
+      "page": 18,
+      "style": "Heading 5",
+      "text": "Language and Cultural Barriers",
+      "words": 5,
+      "chars": 30
+    },
+    {
+      "index": 362,
+      "start": 20089,
+      "end": 20297,
+      "page": 18,
+      "style": "Body Text",
+      "text": "Most MOOCs and virtual learning systems offer content only in major global languages such as English. This restricts access for learners who require local languages or culturally relevant learning materials.",
+      "words": 30,
+      "chars": 207
+    },
+    {
+      "index": 363,
+      "start": 20297,
+      "end": 20333,
+      "page": 18,
+      "style": "Heading 5",
+      "text": "Lack of Personalization and Support",
+      "words": 6,
+      "chars": 35
+    },
+    {
+      "index": 364,
+      "start": 20333,
+      "end": 20518,
+      "page": 18,
+      "style": "Body Text",
+      "text": "Many platforms provide mass content with minimal learner support. Students often struggle without personalized feedback, mentorship, or adaptive learning paths tailored to their needs.",
+      "words": 24,
+      "chars": 184
+    },
+    {
+      "index": 365,
+      "start": 20518,
+      "end": 20537,
+      "page": 18,
+      "style": "Heading 5",
+      "text": "High Dropout Rates",
+      "words": 4,
+      "chars": 18
+    },
+    {
+      "index": 366,
+      "start": 20537,
+      "end": 20725,
+      "page": 18,
+      "style": "Body Text",
+      "text": "Studies show that MOOCs have high dropout rates due to lack of motivation, limited interaction, and insufficient guidance, indicating that current platforms are not fully learner-centric.",
+      "words": 26,
+      "chars": 187
+    },
+    {
+      "index": 370,
+      "start": 20728,
+      "end": 20760,
+      "page": 18,
+      "style": "Heading 2",
+      "text": "ADVANTAGES OF PROPOSED SOLUTION",
+      "words": 5,
+      "chars": 31
+    },
+    {
+      "index": 371,
+      "start": 20760,
+      "end": 20966,
+      "page": 18,
+      "style": "Body Text",
+      "text": "The proposed Education Beyond Borders platform offers several benefits that address the limitations of existing systems and create a more inclusive, accessible, and globally connected learning environment.",
+      "words": 27,
+      "chars": 205
+    },
+    {
+      "index": 373,
+      "start": 20967,
+      "end": 21005,
+      "page": 18,
+      "style": "Heading 5",
+      "text": "Universal Access to Quality Education",
+      "words": 6,
+      "chars": 37
+    },
+    {
+      "index": 374,
+      "start": 21005,
+      "end": 21193,
+      "page": 18,
+      "style": "Body Text",
+      "text": "The platform enables learners from any location—including rural, remote, or underserved communities—to access high-quality educational resources without physical or geographical barriers.",
+      "words": 23,
+      "chars": 187
+    },
+    {
+      "index": 376,
+      "start": 21194,
+      "end": 21240,
+      "page": 19,
+      "style": "Heading 5",
+      "text": "Multilingual and Culturally Inclusive Content",
+      "words": 6,
+      "chars": 45
+    },
+    {
+      "index": 377,
+      "start": 21240,
+      "end": 21415,
+      "page": 19,
+      "style": "Body Text",
+      "text": "By supporting multiple languages and culturally relevant materials, the system ensures that learners from diverse backgrounds can understand and relate to the content easily.",
+      "words": 24,
+      "chars": 174
+    },
+    {
+      "index": 378,
+      "start": 21415,
+      "end": 21445,
+      "page": 19,
+      "style": "Heading 5",
+      "text": "Integrated Learning Ecosystem",
+      "words": 4,
+      "chars": 29
+    },
+    {
+      "index": 379,
+      "start": 21445,
+      "end": 21646,
+      "page": 19,
+      "style": "Body Text",
+      "text": "Unlike fragmented existing platforms, the proposed solution combines online courses, virtual classrooms, collaboration tools, assessments, and communication features into a single unified environment.",
+      "words": 23,
+      "chars": 200
+    },
+    {
+      "index": 380,
+      "start": 21646,
+      "end": 21679,
+      "page": 19,
+      "style": "Heading 5",
+      "text": "Low-Bandwidth and Offline Access",
+      "words": 5,
+      "chars": 32
+    },
+    {
+      "index": 381,
+      "start": 21679,
+      "end": 21851,
+      "page": 19,
+      "style": "Body Text",
+      "text": "The platform is designed with low-bandwidth support and offline learning options, allowing students with limited internet access to continue learning without interruption.",
+      "words": 22,
+      "chars": 171
+    },
+    {
+      "index": 382,
+      "start": 21851,
+      "end": 21884,
+      "page": 19,
+      "style": "Heading 5",
+      "text": "Personalized Learning Experience",
+      "words": 4,
+      "chars": 32
+    },
+    {
+      "index": 383,
+      "start": 21884,
+      "end": 22049,
+      "page": 19,
+      "style": "Body Text",
+      "text": "Adaptive learning paths, progress tracking, and personalized recommendations ensure that each student receives tailored support based on their pace and performance.",
+      "words": 21,
+      "chars": 164
+    },
+    {
+      "index": 384,
+      "start": 22049,
+      "end": 22094,
+      "page": 19,
+      "style": "Heading 5",
+      "text": "Enhanced Collaboration and Global Networking",
+      "words": 6,
+      "chars": 44
+    },
+    {
+      "index": 385,
+      "start": 22094,
+      "end": 22262,
+      "page": 19,
+      "style": "Body Text",
+      "text": "Students and teachers from different countries can interact, share ideas, and work together on projects, promoting cross-cultural understanding and global citizenship.",
+      "words": 21,
+      "chars": 167
+    },
+    {
+      "index": 386,
+      "start": 22262,
+      "end": 22309,
+      "page": 19,
+      "style": "Heading 5",
+      "text": "Support for Marginalized and Vulnerable Groups",
+      "words": 7,
+      "chars": 46
+    },
+    {
+      "index": 387,
+      "start": 22309,
+      "end": 22477,
+      "page": 19,
+      "style": "Body Text",
+      "text": "The system includes features targeted at girls, refugees, disabled learners, and economically disadvantaged students, ensuring equal educational opportunities for all.",
+      "words": 20,
+      "chars": 167
+    },
+    {
+      "index": 388,
+      "start": 22477,
+      "end": 22505,
+      "page": 19,
+      "style": "Heading 5",
+      "text": "Cost-Effective and Scalable",
+      "words": 4,
+      "chars": 27
+    },
+    {
+      "index": 389,
+      "start": 22505,
+      "end": 22658,
+      "page": 19,
+      "style": "Body Text",
+      "text": "The platform leverages digital technologies to reduce the cost of education delivery and can be scaled easily to support millions of learners worldwide.",
+      "words": 23,
+      "chars": 152
+    },
+    {
+      "index": 391,
+      "start": 22659,
+      "end": 22672,
+      "page": 20,
+      "style": "Heading 1",
+      "text": "CHAPTER- III",
+      "words": 2,
+      "chars": 12
+    },
+    {
+      "index": 393,
+      "start": 22673,
+      "end": 22682,
+      "page": 20,
+      "style": "Heading 2",
+      "text": "ANALYSIS",
+      "words": 1,
+      "chars": 8
+    },
+    {
+      "index": 395,
+      "start": 22683,
+      "end": 22701,
+      "page": 20,
+      "style": "Heading 2",
+      "text": "PROBLEM STATEMENT",
+      "words": 3,
+      "chars": 17
+    },
+    {
+      "index": 397,
+      "start": 22702,
+      "end": 23532,
+      "page": 20,
+      "style": "Body Text",
+      "text": "Despite significant advancements in technology and global connectivity, access to quality education remains unequal across the world. Millions of learners, particularly those in rural areas, marginalized communities, low-income regions, and conflict-affected zones, continue to face barriers such as lack of infrastructure, limited educational resources, language constraints, and insufficient digital access. Existing online learning platforms and global educational initiatives provide valuable support but remain fragmented, often requiring high-bandwidth internet, offering limited multilingual content, and failing to meet the needs of diverse learners. As a result, there is a widening educational divide, preventing students from receiving equitable learning opportunities and hindering their academic and personal growth.",
+      "words": 104,
+      "chars": 829
+    },
+    {
+      "index": 399,
+      "start": 23533,
+      "end": 24020,
+      "page": 20,
+      "style": "Body Text",
+      "text": "To address these challenges, there is a need for a unified, inclusive, and technology-driven platform that provides accessible, multilingual, collaborative, and flexible learning opportunities beyond geographical boundaries. The problem lies in designing a system that bridges educational disparities, supports marginalized learners, encourages cross-cultural interaction, and ensures that quality education is available to everyone, regardless of location or socio-economic background.",
+      "words": 59,
+      "chars": 486
+    },
+    {
+      "index": 403,
+      "start": 24023,
+      "end": 24045,
+      "page": 20,
+      "style": "Heading 2",
+      "text": "SOFTWARE REQUIREMENTS",
+      "words": 3,
+      "chars": 21
+    },
+    {
+      "index": 405,
+      "start": 24046,
+      "end": 24210,
+      "page": 20,
+      "style": "Body Text",
+      "text": "The system requires both programming tools and libraries to perform data preprocessing, model training, and deployment. The following software components are used:",
+      "words": 22,
+      "chars": 163
+    },
+    {
+      "index": 408,
+      "start": 24212,
+      "end": 24221,
+      "page": 20,
+      "style": "Table Paragraph",
+      "text": "Software",
+      "words": 0,
+      "chars": 8
+    },
+    {
+      "index": 409,
+      "start": 24221,
+      "end": 24241,
+      "page": 20,
+      "style": "Table Paragraph",
+      "text": "Description/Purpose",
+      "words": 0,
+      "chars": 19
+    },
+    {
+      "index": 411,
+      "start": 24242,
+      "end": 24259,
+      "page": 20,
+      "style": "Table Paragraph",
+      "text": "Operating system",
+      "words": 0,
+      "chars": 16
+    },
+    {
+      "index": 412,
+      "start": 24259,
+      "end": 24273,
+      "page": 20,
+      "style": "Table Paragraph",
+      "text": "Windows 10/11",
+      "words": 0,
+      "chars": 13
+    },
+    {
+      "index": 414,
+      "start": 24274,
+      "end": 24295,
+      "page": 20,
+      "style": "Table Paragraph",
+      "text": "Programming Language",
+      "words": 0,
+      "chars": 20
+    },
+    {
+      "index": 415,
+      "start": 24295,
+      "end": 24327,
+      "page": 20,
+      "style": "Table Paragraph",
+      "text": "Python (version 3.10 or higher)",
+      "words": 0,
+      "chars": 31
+    },
+    {
+      "index": 418,
+      "start": 24329,
+      "end": 24353,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Development Environment",
+      "words": 0,
+      "chars": 23
+    },
+    {
+      "index": 419,
+      "start": 24353,
+      "end": 24361,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "VS code",
+      "words": 0,
+      "chars": 7
+    },
+    {
+      "index": 421,
+      "start": 24362,
+      "end": 24377,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Libraries Used",
+      "words": 0,
+      "chars": 14
+    },
+    {
+      "index": 422,
+      "start": 24377,
+      "end": 24403,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Pandas, NumPy,Scikitlearn",
+      "words": 0,
+      "chars": 25
+    },
+    {
+      "index": 424,
+      "start": 24404,
+      "end": 24430,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Frameworks for deployment",
+      "words": 0,
+      "chars": 25
+    },
+    {
+      "index": 425,
+      "start": 24430,
+      "end": 24472,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "HTML, CSS, Javascript (for web interface)",
+      "words": 0,
+      "chars": 41
+    },
+    {
+      "index": 427,
+      "start": 24473,
+      "end": 24488,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Dataset Format",
+      "words": 0,
+      "chars": 14
+    },
+    {
+      "index": 428,
+      "start": 24488,
+      "end": 24517,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "CSV (Comma Separated Values)",
+      "words": 0,
+      "chars": 28
+    },
+    {
+      "index": 433,
+      "start": 24521,
+      "end": 24543,
+      "page": 21,
+      "style": "Heading 2",
+      "text": "HARDWARE REQUIREMENTS",
+      "words": 3,
+      "chars": 21
+    },
+    {
+      "index": 434,
+      "start": 24543,
+      "end": 24684,
+      "page": 21,
+      "style": "Body Text",
+      "text": "The system is designed to run efficiently on standard computing devices. The minimum and recommended hardware specifications are as follows:",
+      "words": 20,
+      "chars": 140
+    },
+    {
+      "index": 437,
+      "start": 24686,
+      "end": 24696,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Component",
+      "words": 0,
+      "chars": 9
+    },
+    {
+      "index": 438,
+      "start": 24696,
+      "end": 24716,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Minimum Requirement",
+      "words": 0,
+      "chars": 19
+    },
+    {
+      "index": 439,
+      "start": 24716,
+      "end": 24740,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Recommended Requirement",
+      "words": 0,
+      "chars": 23
+    },
+    {
+      "index": 441,
+      "start": 24741,
+      "end": 24751,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Processor",
+      "words": 0,
+      "chars": 9
+    },
+    {
+      "index": 442,
+      "start": 24751,
+      "end": 24765,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Intel Core i3",
+      "words": 0,
+      "chars": 13
+    },
+    {
+      "index": 443,
+      "start": 24765,
+      "end": 24782,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Intel Core i5/i7",
+      "words": 0,
+      "chars": 16
+    },
+    {
+      "index": 445,
+      "start": 24783,
+      "end": 24787,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "RAM",
+      "words": 0,
+      "chars": 3
+    },
+    {
+      "index": 446,
+      "start": 24787,
+      "end": 24791,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "4GB",
+      "words": 0,
+      "chars": 3
+    },
+    {
+      "index": 447,
+      "start": 24791,
+      "end": 24806,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "8 GB or higher",
+      "words": 0,
+      "chars": 14
+    },
+    {
+      "index": 449,
+      "start": 24807,
+      "end": 24815,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Storage",
+      "words": 0,
+      "chars": 7
+    },
+    {
+      "index": 450,
+      "start": 24815,
+      "end": 24833,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "500 MB free space",
+      "words": 0,
+      "chars": 17
+    },
+    {
+      "index": 451,
+      "start": 24833,
+      "end": 24848,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "1 GB or higher",
+      "words": 0,
+      "chars": 14
+    },
+    {
+      "index": 453,
+      "start": 24849,
+      "end": 24857,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Display",
+      "words": 0,
+      "chars": 7
+    },
+    {
+      "index": 454,
+      "start": 24857,
+      "end": 24878,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "124 x 768 resolution",
+      "words": 0,
+      "chars": 20
+    },
+    {
+      "index": 455,
+      "start": 24878,
+      "end": 24900,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Full HD (1920 x 1080)",
+      "words": 0,
+      "chars": 21
+    },
+    {
+      "index": 457,
+      "start": 24901,
+      "end": 24918,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Operating System",
+      "words": 0,
+      "chars": 16
+    },
+    {
+      "index": 458,
+      "start": 24918,
+      "end": 24929,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Windows 10",
+      "words": 0,
+      "chars": 10
+    },
+    {
+      "index": 459,
+      "start": 24929,
+      "end": 24946,
+      "page": 21,
+      "style": "Table Paragraph",
+      "text": "Windows 11/Linux",
+      "words": 0,
+      "chars": 16
+    },
+    {
+      "index": 462,
+      "start": 24948,
+      "end": 24960,
+      "page": 22,
+      "style": "Heading 1",
+      "text": "CHAPTER- IV",
+      "words": 2,
+      "chars": 11
+    },
+    {
+      "index": 464,
+      "start": 24961,
+      "end": 24968,
+      "page": 22,
+      "style": "Heading 2",
+      "text": "DESIGN",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 466,
+      "start": 24969,
+      "end": 24989,
+      "page": 22,
+      "style": "Heading 2",
+      "text": "SYSTEM ARCHITECTURE",
+      "words": 3,
+      "chars": 19
+    },
+    {
+      "index": 468,
+      "start": 24990,
+      "end": 25246,
+      "page": 22,
+      "style": "Body Text",
+      "text": "This section describes the proposed system architecture for the Education Beyond Borders platform: a scalable, secure, multilingual, low-bandwidth friendly learning ecosystem that supports cross-border collaboration, offline access, and adaptive learning.",
+      "words": 30,
+      "chars": 255
+    },
+    {
+      "index": 470,
+      "start": 25247,
+      "end": 25267,
+      "page": 22,
+      "style": "Heading 5",
+      "text": "High-level overview",
+      "words": 3,
+      "chars": 19
+    },
+    {
+      "index": 472,
+      "start": 25268,
+      "end": 25352,
+      "page": 22,
+      "style": "Normal",
+      "text": "The system follows a layered, service-oriented architecture with these main layers:",
+      "words": 11,
+      "chars": 83
+    },
+    {
+      "index": 474,
+      "start": 25353,
+      "end": 25460,
+      "page": 22,
+      "style": "List Paragraph",
+      "text": "Presentation Layer (Clients) — Web, Mobile (Android/iOS), and Offline Clients (lite app / cached content).",
+      "words": 15,
+      "chars": 106
+    },
+    {
+      "index": 475,
+      "start": 25460,
+      "end": 25543,
+      "page": 22,
+      "style": "List Paragraph",
+      "text": "API / Gateway Layer — Authentication, rate limiting, routing, and API aggregation.",
+      "words": 12,
+      "chars": 82
+    },
+    {
+      "index": 476,
+      "start": 25543,
+      "end": 25758,
+      "page": 22,
+      "style": "List Paragraph",
+      "text": "Application Services Layer (Microservices) — Course Management, User Management, Collaboration, Content Delivery, Assessment, Analytics, Multilingual/Localization, Recommendation / Adaptive Learning, Notifications.",
+      "words": 20,
+      "chars": 214
+    },
+    {
+      "index": 477,
+      "start": 25758,
+      "end": 25891,
+      "page": 22,
+      "style": "List Paragraph",
+      "text": "Data Layer — Relational DB for core data, NoSQL for content & sessions, Object storage for media, Search index, Analytics warehouse.",
+      "words": 21,
+      "chars": 132
+    },
+    {
+      "index": 478,
+      "start": 25891,
+      "end": 26046,
+      "page": 22,
+      "style": "List Paragraph",
+      "text": "Integration & Infrastructure Layer — CDN, Message Broker, Background Workers, Identity Provider (SSO), Payment/Partner APIs, External OER/MOOC connectors.",
+      "words": 18,
+      "chars": 154
+    },
+    {
+      "index": 482,
+      "start": 26049,
+      "end": 26066,
+      "page": 22,
+      "style": "Heading 2",
+      "text": "USE CASE DIAGRAM",
+      "words": 4,
+      "chars": 16
+    },
+    {
+      "index": 483,
+      "start": 26066,
+      "end": 26156,
+      "page": 22,
+      "style": "Body Text",
+      "text": "The Use Case Diagram represents the system’s functionality from the user’s point of view.",
+      "words": 14,
+      "chars": 89
+    },
+    {
+      "index": 485,
+      "start": 26157,
+      "end": 26165,
+      "page": 22,
+      "style": "Heading 3",
+      "text": "Actors:",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 487,
+      "start": 26166,
+      "end": 26174,
+      "page": 22,
+      "style": "Heading 5",
+      "text": "Student",
+      "words": 2,
+      "chars": 7
+    },
+    {
+      "index": 489,
+      "start": 26175,
+      "end": 26203,
+      "page": 22,
+      "style": "Body Text",
+      "text": "Primary user of the system.",
+      "words": 5,
+      "chars": 27
+    },
+    {
+      "index": 491,
+      "start": 26204,
+      "end": 26292,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Accesses learning materials, enrolls in courses, and participates in online activities.",
+      "words": 11,
+      "chars": 87
+    },
+    {
+      "index": 493,
+      "start": 26293,
+      "end": 26314,
+      "page": 23,
+      "style": "Heading 5",
+      "text": "Teacher / Instructor",
+      "words": 4,
+      "chars": 20
+    },
+    {
+      "index": 495,
+      "start": 26315,
+      "end": 26344,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Creates and manages courses.",
+      "words": 4,
+      "chars": 28
+    },
+    {
+      "index": 497,
+      "start": 26345,
+      "end": 26398,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Conducts virtual classes and evaluates student work.",
+      "words": 7,
+      "chars": 52
+    },
+    {
+      "index": 499,
+      "start": 26399,
+      "end": 26413,
+      "page": 23,
+      "style": "Heading 5",
+      "text": "Administrator",
+      "words": 2,
+      "chars": 13
+    },
+    {
+      "index": 501,
+      "start": 26414,
+      "end": 26437,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Oversees the platform.",
+      "words": 3,
+      "chars": 22
+    },
+    {
+      "index": 503,
+      "start": 26438,
+      "end": 26486,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Manages users, courses, and system maintenance.",
+      "words": 6,
+      "chars": 47
+    },
+    {
+      "index": 505,
+      "start": 26487,
+      "end": 26498,
+      "page": 23,
+      "style": "Heading 3",
+      "text": "Use Cases:",
+      "words": 2,
+      "chars": 10
+    },
+    {
+      "index": 507,
+      "start": 26499,
+      "end": 26550,
+      "page": 23,
+      "style": "Heading 5",
+      "text": "Register and Create User Profile (student/teacher)",
+      "words": 7,
+      "chars": 50
+    },
+    {
+      "index": 509,
+      "start": 26551,
+      "end": 26756,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Users create an account by providing basic details such as name, location, preferred language, and role (student or teacher). This allows the system to offer personalized content and multilingual support.",
+      "words": 30,
+      "chars": 204
+    },
+    {
+      "index": 511,
+      "start": 26757,
+      "end": 26786,
+      "page": 23,
+      "style": "Heading 5",
+      "text": "Browse and Enroll in Courses",
+      "words": 6,
+      "chars": 28
+    },
+    {
+      "index": 513,
+      "start": 26787,
+      "end": 26950,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Students explore available global courses across different subjects, languages, and skill levels. They can enroll in any course based on interest and eligibility.",
+      "words": 23,
+      "chars": 162
+    },
+    {
+      "index": 515,
+      "start": 26951,
+      "end": 26994,
+      "page": 23,
+      "style": "Heading 5",
+      "text": "Access Learning Materials (online/offline)",
+      "words": 5,
+      "chars": 42
+    },
+    {
+      "index": 517,
+      "start": 26995,
+      "end": 27178,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Students view course videos, notes, and interactive content. The system provides low-bandwidth and offline download options to ensure access even in remote or underconnected regions.",
+      "words": 25,
+      "chars": 182
+    },
+    {
+      "index": 519,
+      "start": 27179,
+      "end": 27213,
+      "page": 23,
+      "style": "Heading 5",
+      "text": "Participate in Virtual Classrooms",
+      "words": 5,
+      "chars": 33
+    },
+    {
+      "index": 521,
+      "start": 27214,
+      "end": 27382,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Learners join live online sessions conducted by teachers worldwide. Teachers can share screens, communicate in real time, and engage students through interactive tools",
+      "words": 23,
+      "chars": 167
+    },
+    {
+      "index": 523,
+      "start": 27383,
+      "end": 27396,
+      "page": 23,
+      "style": "Heading 3",
+      "text": "Description:",
+      "words": 1,
+      "chars": 12
+    },
+    {
+      "index": 524,
+      "start": 27396,
+      "end": 27595,
+      "page": 23,
+      "style": "Body Text",
+      "text": "Education Beyond Borders is a global digital learning platform designed to eliminate geographical and socio-economic barriers in education. It enables students and teachers from diverse countries to",
+      "words": 27,
+      "chars": 198
+    },
+    {
+      "index": 526,
+      "start": 27596,
+      "end": 27991,
+      "page": 24,
+      "style": "Body Text",
+      "text": "connect, learn, and collaborate through an integrated ecosystem of multilingual courses, virtual classrooms, and offline-access learning resources. Students can easily browse and enroll in courses, engage with educational content, participate in live sessions, and track their learning progress. Teachers contribute by designing courses, uploading materials, and evaluating student performance.",
+      "words": 49,
+      "chars": 394
+    },
+    {
+      "index": 528,
+      "start": 27992,
+      "end": 28498,
+      "page": 24,
+      "style": "Body Text",
+      "text": "The platform’s administrative layer ensures smooth system functioning through user management, content moderation, and detailed analytics. With support for low-bandwidth environments, cultural inclusivity, and global collaboration features, Education Beyond Borders provides an accessible, scalable, and inclusive learning environment for learners worldwide. The system aims to bridge educational gaps and promote equal learning opportunities for students regardless of location, background, or resources.",
+      "words": 61,
+      "chars": 505
+    },
+    {
+      "index": 538,
+      "start": 28508,
+      "end": 28537,
+      "page": 24,
+      "style": "Normal",
+      "text": "Figure: 4.2 Use Case Diagram",
+      "words": 5,
+      "chars": 28
+    },
+    {
+      "index": 540,
+      "start": 28538,
+      "end": 28555,
+      "page": 25,
+      "style": "Heading 2",
+      "text": "ACTIVITY DIAGRAM",
+      "words": 3,
+      "chars": 16
+    },
+    {
+      "index": 541,
+      "start": 28555,
+      "end": 28623,
+      "page": 25,
+      "style": "Normal",
+      "text": "The Activity Diagram shows the step-by-step workflow of the system.",
+      "words": 10,
+      "chars": 67
+    },
+    {
+      "index": 543,
+      "start": 28624,
+      "end": 28644,
+      "page": 25,
+      "style": "Heading 3",
+      "text": "Flow of Activities:",
+      "words": 3,
+      "chars": 19
+    },
+    {
+      "index": 545,
+      "start": 28645,
+      "end": 28682,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "User Registration and Authentication",
+      "words": 4,
+      "chars": 36
+    },
+    {
+      "index": 547,
+      "start": 28683,
+      "end": 28714,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Browsing and Selecting Courses",
+      "words": 4,
+      "chars": 30
+    },
+    {
+      "index": 549,
+      "start": 28715,
+      "end": 28744,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Accessing Learning Materials",
+      "words": 3,
+      "chars": 28
+    },
+    {
+      "index": 551,
+      "start": 28745,
+      "end": 28780,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Participating in Virtual Classroom",
+      "words": 4,
+      "chars": 34
+    },
+    {
+      "index": 553,
+      "start": 28781,
+      "end": 28818,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Assignment Submission and Assessment",
+      "words": 4,
+      "chars": 36
+    },
+    {
+      "index": 555,
+      "start": 28819,
+      "end": 28837,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Tracking Progress",
+      "words": 2,
+      "chars": 17
+    },
+    {
+      "index": 557,
+      "start": 28838,
+      "end": 28876,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Teacher Creating and Managing Courses",
+      "words": 5,
+      "chars": 37
+    },
+    {
+      "index": 559,
+      "start": 28877,
+      "end": 28913,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Administrator Management Activities",
+      "words": 3,
+      "chars": 35
+    },
+    {
+      "index": 561,
+      "start": 28914,
+      "end": 28952,
+      "page": 25,
+      "style": "List Paragraph",
+      "text": "Continuous Learning and Collaboration",
+      "words": 4,
+      "chars": 37
+    },
+    {
+      "index": 563,
+      "start": 28953,
+      "end": 28955,
+      "page": 26,
+      "style": "Normal",
+      "text": "/",
+      "words": 0,
+      "chars": 1
+    },
+    {
+      "index": 565,
+      "start": 28956,
+      "end": 29004,
+      "page": 26,
+      "style": "Heading 3",
+      "text": "Figure: 4.3Activity Diagram 4.4SEQUENCE DIAGRAM",
+      "words": 5,
+      "chars": 47
+    },
+    {
+      "index": 566,
+      "start": 29004,
+      "end": 29083,
+      "page": 26,
+      "style": "Normal",
+      "text": "The Sequence Diagram represents how different components interact over time to",
+      "words": 11,
+      "chars": 78
+    },
+    {
+      "index": 567,
+      "start": 29083,
+      "end": 29116,
+      "page": 26,
+      "style": "Normal",
+      "text": "complete the prediction process.",
+      "words": 4,
+      "chars": 32
+    },
+    {
+      "index": 568,
+      "start": 29116,
+      "end": 29130,
+      "page": 26,
+      "style": "Normal",
+      "text": "Main Objects:",
+      "words": 2,
+      "chars": 13
+    },
+    {
+      "index": 569,
+      "start": 29130,
+      "end": 29135,
+      "page": 26,
+      "style": "List Paragraph",
+      "text": "User",
+      "words": 1,
+      "chars": 4
+    },
+    {
+      "index": 570,
+      "start": 29135,
+      "end": 29157,
+      "page": 26,
+      "style": "List Paragraph",
+      "text": "Interface (Front End)",
+      "words": 3,
+      "chars": 21
+    },
+    {
+      "index": 571,
+      "start": 29157,
+      "end": 29173,
+      "page": 26,
+      "style": "List Paragraph",
+      "text": "Model (Backend)",
+      "words": 2,
+      "chars": 15
+    },
+    {
+      "index": 573,
+      "start": 29174,
+      "end": 29214,
+      "page": 27,
+      "style": "List Paragraph",
+      "text": "Database / Dataset Sequence of Actions:",
+      "words": 6,
+      "chars": 39
+    },
+    {
+      "index": 574,
+      "start": 29214,
+      "end": 29284,
+      "page": 27,
+      "style": "List Paragraph",
+      "text": "User → Interface: Enters input details (experience, education, etc.).",
+      "words": 10,
+      "chars": 69
+    },
+    {
+      "index": 575,
+      "start": 29284,
+      "end": 29345,
+      "page": 27,
+      "style": "List Paragraph",
+      "text": "Interface → Model: Sends input data to the prediction model.",
+      "words": 11,
+      "chars": 60
+    },
+    {
+      "index": 576,
+      "start": 29345,
+      "end": 29407,
+      "page": 27,
+      "style": "Heading 4",
+      "text": "Model: Loads serialized model and performs salary prediction.",
+      "words": 9,
+      "chars": 61
+    },
+    {
+      "index": 577,
+      "start": 29407,
+      "end": 29456,
+      "page": 27,
+      "style": "List Paragraph",
+      "text": "Model → Interface: Sends predicted salary value.",
+      "words": 8,
+      "chars": 48
+    },
+    {
+      "index": 578,
+      "start": 29456,
+      "end": 29507,
+      "page": 27,
+      "style": "List Paragraph",
+      "text": "Interface → User: Displays the result to the user.",
+      "words": 10,
+      "chars": 50
+    },
+    {
+      "index": 579,
+      "start": 29507,
+      "end": 29637,
+      "page": 27,
+      "style": "Heading 4",
+      "text": "This sequence ensures smooth communication between the front end and back end, enabling real-time and accurate salary prediction.",
+      "words": 18,
+      "chars": 129
+    },
+    {
+      "index": 582,
+      "start": 29640,
+      "end": 29669,
+      "page": 27,
+      "style": "Normal",
+      "text": "Figure: 4.4 Sequence Diagram",
+      "words": 4,
+      "chars": 28
+    },
+    {
+      "index": 584,
+      "start": 29670,
+      "end": 29681,
+      "page": 28,
+      "style": "Heading 1",
+      "text": "CHAPTER- V",
+      "words": 2,
+      "chars": 10
+    },
+    {
+      "index": 586,
+      "start": 29682,
+      "end": 29709,
+      "page": 28,
+      "style": "Heading 2",
+      "text": "IMPLEMENTATION AND RESULTS",
+      "words": 3,
+      "chars": 26
+    },
+    {
+      "index": 587,
+      "start": 29709,
+      "end": 29748,
+      "page": 28,
+      "style": "Heading 2",
+      "text": "DATA PREPARATION AND FEATURE SELECTION",
+      "words": 6,
+      "chars": 38
+    },
+    {
+      "index": 588,
+      "start": 29748,
+      "end": 29765,
+      "page": 28,
+      "style": "Heading 5",
+      "text": "Data Preparation",
+      "words": 2,
+      "chars": 16
+    },
+    {
+      "index": 590,
+      "start": 29766,
+      "end": 30657,
+      "page": 28,
+      "style": "Body Text",
+      "text": "Data preparation is a crucial step in the Education Beyond Borders platform, as it ensures that all educational content, user information, and system analytics are accurate, consistent, and usable. For students and teachers, the system collects various types of data, including personal details, course enrollments, learning progress, assignment submissions, and interaction history in forums or virtual classrooms. This raw data is first cleaned to remove inconsistencies, duplicates, and errors. For example, user profiles are standardized to handle different formats of names, locations, and languages, while course metadata is verified for completeness and relevance. The platform also organizes multimedia content such as videos, PDFs, and interactive modules, tagging them with relevant keywords, categories, and difficulty levels to improve searchability and recommendation accuracy.",
+      "words": 121,
+      "chars": 890
+    },
+    {
+      "index": 593,
+      "start": 30659,
+      "end": 30680,
+      "page": 28,
+      "style": "Heading 2",
+      "text": "MODEL IMPLEMENTATION",
+      "words": 3,
+      "chars": 20
+    },
+    {
+      "index": 595,
+      "start": 30681,
+      "end": 30708,
+      "page": 28,
+      "style": "Heading 5",
+      "text": "User Module Implementation",
+      "words": 3,
+      "chars": 26
+    },
+    {
+      "index": 597,
+      "start": 30709,
+      "end": 30879,
+      "page": 28,
+      "style": "Body Text",
+      "text": "Develop registration and authentication system for students, teachers, and administrators. Implement role-based access control to manage permissions and functionalities.",
+      "words": 19,
+      "chars": 169
+    },
+    {
+      "index": 598,
+      "start": 30879,
+      "end": 30904,
+      "page": 28,
+      "style": "Heading 5",
+      "text": "Course Management Module",
+      "words": 3,
+      "chars": 24
+    },
+    {
+      "index": 600,
+      "start": 30905,
+      "end": 30978,
+      "page": 28,
+      "style": "Body Text",
+      "text": "Create functionality for teachers to design, upload, and manage courses.",
+      "words": 10,
+      "chars": 72
+    },
+    {
+      "index": 602,
+      "start": 30979,
+      "end": 31068,
+      "page": 28,
+      "style": "Body Text",
+      "text": "Support multimedia content (videos, PDFs, interactive modules) and multilingual content.",
+      "words": 10,
+      "chars": 88
+    },
+    {
+      "index": 604,
+      "start": 31069,
+      "end": 31102,
+      "page": 28,
+      "style": "Heading 5",
+      "text": "Enrollment and Progress Tracking",
+      "words": 4,
+      "chars": 32
+    },
+    {
+      "index": 606,
+      "start": 31103,
+      "end": 31152,
+      "page": 28,
+      "style": "Body Text",
+      "text": "Implement course enrollment system for students.",
+      "words": 6,
+      "chars": 48
+    },
+    {
+      "index": 608,
+      "start": 31153,
+      "end": 31248,
+      "page": 28,
+      "style": "Body Text",
+      "text": "Track learning progress, completion status, and generate dashboards for students and teachers.",
+      "words": 12,
+      "chars": 94
+    },
+    {
+      "index": 610,
+      "start": 31249,
+      "end": 31274,
+      "page": 28,
+      "style": "Heading 5",
+      "text": "Virtual Classroom Module",
+      "words": 3,
+      "chars": 24
+    },
+    {
+      "index": 612,
+      "start": 31275,
+      "end": 31409,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Integrate real-time video conferencing tools for live classes. Implement chat, discussion forums, and interactive classroom features.",
+      "words": 16,
+      "chars": 133
+    },
+    {
+      "index": 615,
+      "start": 31411,
+      "end": 31436,
+      "page": 29,
+      "style": "Heading 2",
+      "text": "MODEL EVALUATION METRICS",
+      "words": 4,
+      "chars": 24
+    },
+    {
+      "index": 617,
+      "start": 31437,
+      "end": 31703,
+      "page": 29,
+      "style": "Body Text",
+      "text": "To ensure the effectiveness and reliability of the Education Beyond Borders platform, various evaluation metrics are used to assess the system’s performance in delivering learning outcomes, user engagement, and content quality. The following metrics are considered:",
+      "words": 36,
+      "chars": 265
+    },
+    {
+      "index": 619,
+      "start": 31704,
+      "end": 31727,
+      "page": 29,
+      "style": "Heading 5",
+      "text": "Course Completion Rate",
+      "words": 3,
+      "chars": 22
+    },
+    {
+      "index": 621,
+      "start": 31728,
+      "end": 31885,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Measures the percentage of enrolled students who successfully complete a course. High completion rates indicate effective learning materials and engagement.",
+      "words": 20,
+      "chars": 156
+    },
+    {
+      "index": 622,
+      "start": 31885,
+      "end": 31909,
+      "page": 29,
+      "style": "Heading 5",
+      "text": "User Engagement Metrics",
+      "words": 3,
+      "chars": 23
+    },
+    {
+      "index": 624,
+      "start": 31910,
+      "end": 32020,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Tracks time spent on the platform, video views, interactions in forums, and participation in virtual classes.",
+      "words": 16,
+      "chars": 109
+    },
+    {
+      "index": 626,
+      "start": 32021,
+      "end": 32083,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Helps identify active learners and areas needing improvement.",
+      "words": 8,
+      "chars": 61
+    },
+    {
+      "index": 628,
+      "start": 32084,
+      "end": 32115,
+      "page": 29,
+      "style": "Heading 5",
+      "text": "Assessment Accuracy and Scores",
+      "words": 4,
+      "chars": 30
+    },
+    {
+      "index": 630,
+      "start": 32116,
+      "end": 32284,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Evaluates how students perform in quizzes, assignments, and tests. Provides insight into learning effectiveness and understanding of content. Student Progress Tracking",
+      "words": 21,
+      "chars": 167
+    },
+    {
+      "index": 631,
+      "start": 32284,
+      "end": 32340,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Measures module-wise completion and progress over time.",
+      "words": 7,
+      "chars": 55
+    },
+    {
+      "index": 633,
+      "start": 32341,
+      "end": 32417,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Supports personalized learning recommendations and adaptive learning paths.",
+      "words": 8,
+      "chars": 75
+    },
+    {
+      "index": 635,
+      "start": 32418,
+      "end": 32453,
+      "page": 29,
+      "style": "Heading 5",
+      "text": "System Usability and Accessibility",
+      "words": 4,
+      "chars": 34
+    },
+    {
+      "index": 637,
+      "start": 32454,
+      "end": 32537,
+      "page": 29,
+      "style": "Body Text",
+      "text": "Metrics like login success rate, content load time, and offline access efficiency.",
+      "words": 12,
+      "chars": 82
+    },
+    {
+      "index": 639,
+      "start": 32538,
+      "end": 32627,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Ensures that learners in low-bandwidth or remote areas can access materials effectively.",
+      "words": 12,
+      "chars": 88
+    },
+    {
+      "index": 641,
+      "start": 32628,
+      "end": 32649,
+      "page": 30,
+      "style": "Heading 2",
+      "text": "EXPERIMENTAL RESULTS",
+      "words": 3,
+      "chars": 20
+    },
+    {
+      "index": 643,
+      "start": 32650,
+      "end": 33037,
+      "page": 30,
+      "style": "Body Text",
+      "text": "The Education Beyond Borders platform was tested and evaluated to measure its effectiveness, accessibility, and user engagement across different regions. The experimental setup involved a group of students and teachers from diverse geographic locations, using both high-bandwidth and low-bandwidth internet connections, and accessing the platform via desktop, mobile, and offline modes.",
+      "words": 51,
+      "chars": 386
+    },
+    {
+      "index": 645,
+      "start": 33038,
+      "end": 33067,
+      "page": 30,
+      "style": "Heading 5",
+      "text": "User Registration and Access",
+      "words": 5,
+      "chars": 28
+    },
+    {
+      "index": 647,
+      "start": 33068,
+      "end": 33138,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Observation: All users were able to successfully register and log in.",
+      "words": 11,
+      "chars": 69
+    },
+    {
+      "index": 649,
+      "start": 33139,
+      "end": 33206,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Result: 100% success rate for profile creation and authentication.",
+      "words": 9,
+      "chars": 66
+    },
+    {
+      "index": 651,
+      "start": 33207,
+      "end": 33245,
+      "page": 30,
+      "style": "Heading 5",
+      "text": "Course Enrollment and Material Access",
+      "words": 6,
+      "chars": 37
+    },
+    {
+      "index": 653,
+      "start": 33246,
+      "end": 33358,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Observation: Students enrolled in multiple courses and accessed video lectures, notes, and interactive content.",
+      "words": 14,
+      "chars": 111
+    },
+    {
+      "index": 655,
+      "start": 33359,
+      "end": 33504,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Result: 95% of students could access materials without interruptions; low-bandwidth optimization allowed offline access for 90% of participants.",
+      "words": 18,
+      "chars": 144
+    },
+    {
+      "index": 657,
+      "start": 33505,
+      "end": 33537,
+      "page": 30,
+      "style": "Heading 5",
+      "text": "Virtual Classroom Participation",
+      "words": 4,
+      "chars": 31
+    },
+    {
+      "index": 659,
+      "start": 33538,
+      "end": 33634,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Observation: Students attended live sessions conducted by teachers across different time zones.",
+      "words": 12,
+      "chars": 95
+    },
+    {
+      "index": 661,
+      "start": 33635,
+      "end": 33724,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Result: 92% participation rate; real-time interaction and chat features worked smoothly.",
+      "words": 11,
+      "chars": 88
+    },
+    {
+      "index": 663,
+      "start": 33725,
+      "end": 33755,
+      "page": 30,
+      "style": "Heading 2",
+      "text": "DEPLOYMENT AND USER INTERFACE",
+      "words": 5,
+      "chars": 29
+    },
+    {
+      "index": 665,
+      "start": 33756,
+      "end": 33767,
+      "page": 30,
+      "style": "Heading 5",
+      "text": "Deployment",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 667,
+      "start": 33768,
+      "end": 34002,
+      "page": 30,
+      "style": "Normal",
+      "text": "The Education Beyond Borders platform is deployed as a web-based and mobile application, accessible globally to students, teachers, and administrators. The deployment is designed to ensure scalability, accessibility, and reliability.",
+      "words": 30,
+      "chars": 233
+    },
+    {
+      "index": 669,
+      "start": 34003,
+      "end": 34136,
+      "page": 30,
+      "style": "Body Text",
+      "text": "Cloud Deployment: The system is hosted on cloud infrastructure (AWS, Azure, or Google Cloud) for high availability and global reach.",
+      "words": 20,
+      "chars": 132
+    },
+    {
+      "index": 671,
+      "start": 34137,
+      "end": 34335,
+      "page": 31,
+      "style": "Body Text",
+      "text": "Microservices Architecture: Each module—user management, course management, virtual classroom, assessment, and analytics—is deployed as a separate microservice for easy maintenance and scalability.",
+      "words": 24,
+      "chars": 197
+    },
+    {
+      "index": 673,
+      "start": 34336,
+      "end": 34351,
+      "page": 31,
+      "style": "Heading 5",
+      "text": "User Interface",
+      "words": 2,
+      "chars": 14
+    },
+    {
+      "index": 675,
+      "start": 34352,
+      "end": 34471,
+      "page": 31,
+      "style": "Normal",
+      "text": "The UI is designed to be intuitive, responsive, and user-friendly, catering to students, teachers, and administrators.",
+      "words": 16,
+      "chars": 118
+    },
+    {
+      "index": 677,
+      "start": 34472,
+      "end": 34490,
+      "page": 31,
+      "style": "Heading 5",
+      "text": "Student Interface",
+      "words": 2,
+      "chars": 17
+    },
+    {
+      "index": 679,
+      "start": 34491,
+      "end": 34626,
+      "page": 31,
+      "style": "Body Text",
+      "text": "Dashboard showing enrolled courses, progress, and recommended modules. Course pages with videos, notes, quizzes, and download options.",
+      "words": 17,
+      "chars": 134
+    },
+    {
+      "index": 680,
+      "start": 34626,
+      "end": 34752,
+      "page": 31,
+      "style": "Body Text",
+      "text": "Virtual classroom interface for live sessions with chat, discussions, and attendance. Progress tracking and feedback display.",
+      "words": 16,
+      "chars": 125
+    },
+    {
+      "index": 681,
+      "start": 34752,
+      "end": 34776,
+      "page": 31,
+      "style": "Heading 5",
+      "text": "Administrator Interface",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 683,
+      "start": 34777,
+      "end": 34874,
+      "page": 31,
+      "style": "Body Text",
+      "text": "User management panel for adding, deleting, or modifying accounts. Course and content moderation",
+      "words": 13,
+      "chars": 96
+    },
+    {
+      "index": 684,
+      "start": 34874,
+      "end": 34969,
+      "page": 31,
+      "style": "Body Text",
+      "text": "System monitoring dashboard with reports on platform usage, course completion, and engagement.",
+      "words": 12,
+      "chars": 94
+    },
+    {
+      "index": 686,
+      "start": 34970,
+      "end": 34982,
+      "page": 32,
+      "style": "Heading 1",
+      "text": "CHAPTER- VI",
+      "words": 2,
+      "chars": 11
+    },
+    {
+      "index": 688,
+      "start": 34983,
+      "end": 35006,
+      "page": 32,
+      "style": "Heading 2",
+      "text": "TESTING AND VALIDATION",
+      "words": 3,
+      "chars": 22
+    },
+    {
+      "index": 690,
+      "start": 35007,
+      "end": 35024,
+      "page": 32,
+      "style": "List Paragraph",
+      "text": "TRAINING PROCESS",
+      "words": 3,
+      "chars": 16
+    },
+    {
+      "index": 692,
+      "start": 35025,
+      "end": 35518,
+      "page": 32,
+      "style": "Body Text",
+      "text": "The training process is the core stage of developing the Skill Bridge AI–based Salary Prediction System. In this phase, Skill Bridge AI learns the hidden patterns and relationships between employee skills, attributes, and their actual salaries. By analyzing factors such as experience, education level, job title, and location, Skill Bridge AI builds a smart model capable of predicting salaries accurately and identifying skill-to-salary connections essential for career transition insights.",
+      "words": 70,
+      "chars": 492
+    },
+    {
+      "index": 694,
+      "start": 35519,
+      "end": 35535,
+      "page": 32,
+      "style": "Heading 3",
+      "text": "Steps Involved:",
+      "words": 2,
+      "chars": 15
+    },
+    {
+      "index": 696,
+      "start": 35537,
+      "end": 35575,
+      "page": 32,
+      "style": "Heading 5",
+      "text": "Dataset Preparation (Skill Bridge AI)",
+      "words": 6,
+      "chars": 37
+    },
+    {
+      "index": 698,
+      "start": 35576,
+      "end": 35725,
+      "page": 32,
+      "style": "Body Text",
+      "text": "The dataset was cleaned, encoded, and divided into training (80%) and testing (20%) sets to ensure Skill Bridge AI received high-quality input data.",
+      "words": 23,
+      "chars": 148
+    },
+    {
+      "index": 700,
+      "start": 35726,
+      "end": 35762,
+      "page": 32,
+      "style": "Heading 5",
+      "text": "Feature Selection for Skill Mapping",
+      "words": 6,
+      "chars": 35
+    },
+    {
+      "index": 702,
+      "start": 35763,
+      "end": 35961,
+      "page": 32,
+      "style": "Body Text",
+      "text": "Important features such as Years of Experience, Education Level, Job Title, and Location were chosen after exploratory analysis, helping Skill Bridge AI focus on the most relevant skill indicators.",
+      "words": 29,
+      "chars": 197
+    },
+    {
+      "index": 704,
+      "start": 35962,
+      "end": 35997,
+      "page": 32,
+      "style": "Heading 5",
+      "text": "Model Selection in Skill Bridge AI",
+      "words": 7,
+      "chars": 34
+    },
+    {
+      "index": 706,
+      "start": 35998,
+      "end": 36060,
+      "page": 32,
+      "style": "Body Text",
+      "text": "Two models were trained within the Skill Bridge AI framework:",
+      "words": 10,
+      "chars": 61
+    },
+    {
+      "index": 708,
+      "start": 36061,
+      "end": 36084,
+      "page": 32,
+      "style": "Heading 5",
+      "text": "Model Training Process",
+      "words": 4,
+      "chars": 22
+    },
+    {
+      "index": 710,
+      "start": 36085,
+      "end": 36286,
+      "page": 32,
+      "style": "Body Text",
+      "text": "The models learned the relationship between skills and salary by minimizing error using optimization methodsTraining continued until the models achieved optimal performance for skill-based prediction.",
+      "words": 25,
+      "chars": 200
+    },
+    {
+      "index": 712,
+      "start": 36287,
+      "end": 36322,
+      "page": 32,
+      "style": "Heading 5",
+      "text": "Saving the Best Skill Bridge Model",
+      "words": 7,
+      "chars": 34
+    },
+    {
+      "index": 714,
+      "start": 36323,
+      "end": 36463,
+      "page": 32,
+      "style": "Body Text",
+      "text": "The best-performing model (Random Forest Regressor) was saved using Pickle, allowing Skill Bridge AI to reuse the model without retraining.",
+      "words": 20,
+      "chars": 139
+    },
+    {
+      "index": 716,
+      "start": 36464,
+      "end": 36480,
+      "page": 33,
+      "style": "Heading 2",
+      "text": "TESTING PROCESS",
+      "words": 3,
+      "chars": 15
+    },
+    {
+      "index": 718,
+      "start": 36481,
+      "end": 36751,
+      "page": 33,
+      "style": "Body Text",
+      "text": "The testing process for the Education Beyond Borders platform ensures that all modules, functionalities, and features work correctly, efficiently, and securely. Testing was conducted in multiple stages, covering both functional and non-functional aspects of the system.",
+      "words": 36,
+      "chars": 269
+    },
+    {
+      "index": 720,
+      "start": 36752,
+      "end": 36765,
+      "page": 33,
+      "style": "Heading 5",
+      "text": "Unit Testing",
+      "words": 3,
+      "chars": 12
+    },
+    {
+      "index": 722,
+      "start": 36766,
+      "end": 36893,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Individual modules such as user registration, course enrollment, content upload, and progress tracking were tested separately.",
+      "words": 16,
+      "chars": 126
+    },
+    {
+      "index": 724,
+      "start": 36894,
+      "end": 36993,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Each function was verified for correctness, input validation, error handling, and expected output.",
+      "words": 13,
+      "chars": 98
+    },
+    {
+      "index": 726,
+      "start": 36994,
+      "end": 37087,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Tools like JUnit (for backend) and Selenium (for frontend) were used to automate some tests.",
+      "words": 15,
+      "chars": 92
+    },
+    {
+      "index": 728,
+      "start": 37088,
+      "end": 37108,
+      "page": 33,
+      "style": "Heading 5",
+      "text": "Integration Testing",
+      "words": 3,
+      "chars": 19
+    },
+    {
+      "index": 730,
+      "start": 37109,
+      "end": 37236,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Tested the interaction between different modules: user profiles, course management, virtual classroom, and assessment systems.",
+      "words": 15,
+      "chars": 126
+    },
+    {
+      "index": 732,
+      "start": 37237,
+      "end": 37310,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Ensured data consistency across modules and correct flow of information.",
+      "words": 10,
+      "chars": 72
+    },
+    {
+      "index": 734,
+      "start": 37311,
+      "end": 37408,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Verified that API calls between services (microservices architecture) returned accurate results.",
+      "words": 11,
+      "chars": 96
+    },
+    {
+      "index": 736,
+      "start": 37409,
+      "end": 37424,
+      "page": 33,
+      "style": "Heading 5",
+      "text": "System Testing",
+      "words": 3,
+      "chars": 14
+    },
+    {
+      "index": 738,
+      "start": 37425,
+      "end": 37522,
+      "page": 33,
+      "style": "Body Text",
+      "text": "End-to-end testing of the complete platform to verify functionality under real-world conditions.",
+      "words": 12,
+      "chars": 96
+    },
+    {
+      "index": 740,
+      "start": 37523,
+      "end": 37688,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Users performed activities such as registering, enrolling in courses, accessing materials, attending virtual classes, submitting assignments, and tracking progress.",
+      "words": 19,
+      "chars": 164
+    },
+    {
+      "index": 742,
+      "start": 37689,
+      "end": 37777,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Confirmed that all features worked together seamlessly and met functional requirements.",
+      "words": 11,
+      "chars": 87
+    },
+    {
+      "index": 744,
+      "start": 37778,
+      "end": 37796,
+      "page": 33,
+      "style": "Heading 5",
+      "text": "Usability Testing",
+      "words": 3,
+      "chars": 17
+    },
+    {
+      "index": 746,
+      "start": 37797,
+      "end": 37880,
+      "page": 33,
+      "style": "Body Text",
+      "text": "Evaluated the user interface for simplicity, accessibility, and user-friendliness.",
+      "words": 9,
+      "chars": 82
+    },
+    {
+      "index": 748,
+      "start": 37881,
+      "end": 37993,
+      "page": 34,
+      "style": "Body Text",
+      "text": "Feedback collected from students and teachers was used to improve navigation, layout, and multilingual support.",
+      "words": 15,
+      "chars": 111
+    },
+    {
+      "index": 750,
+      "start": 37994,
+      "end": 38014,
+      "page": 34,
+      "style": "Heading 5",
+      "text": "Performance Testing",
+      "words": 3,
+      "chars": 19
+    },
+    {
+      "index": 752,
+      "start": 38015,
+      "end": 38096,
+      "page": 34,
+      "style": "Body Text",
+      "text": "Tested the platform under high user load to ensure stability and responsiveness.",
+      "words": 12,
+      "chars": 80
+    },
+    {
+      "index": 754,
+      "start": 38097,
+      "end": 38244,
+      "page": 34,
+      "style": "Body Text",
+      "text": "Metrics included page load times, response times during peak usage, concurrent virtual classroom participants, and offline content download speed.",
+      "words": 19,
+      "chars": 146
+    },
+    {
+      "index": 756,
+      "start": 38245,
+      "end": 38258,
+      "page": 34,
+      "style": "Heading 3",
+      "text": "Observation:",
+      "words": 1,
+      "chars": 12
+    },
+    {
+      "index": 758,
+      "start": 38259,
+      "end": 38799,
+      "page": 34,
+      "style": "Body Text",
+      "text": "During the testing and evaluation of the Education Beyond Borders platform, several key observations were made regarding its functionality, accessibility, and user engagement. The system performed efficiently across various modules, allowing students to register, browse and enroll in courses, access online and offline learning materials, and participate in virtual classrooms without significant issues. Teachers were able to create courses, upload multimedia content, conduct live sessions, and evaluate student submissions effectively.",
+      "words": 70,
+      "chars": 539
+    },
+    {
+      "index": 760,
+      "start": 38800,
+      "end": 38819,
+      "page": 34,
+      "style": "Heading 2",
+      "text": "VALIDATION METRICS",
+      "words": 3,
+      "chars": 18
+    },
+    {
+      "index": 762,
+      "start": 38820,
+      "end": 38904,
+      "page": 34,
+      "style": "Body Text",
+      "text": "To quantitatively evaluate model accuracy, several regression metrics were applied:",
+      "words": 10,
+      "chars": 83
+    },
+    {
+      "index": 765,
+      "start": 38906,
+      "end": 38913,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Metric",
+      "words": 0,
+      "chars": 6
+    },
+    {
+      "index": 766,
+      "start": 38913,
+      "end": 38934,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Formula / Definition",
+      "words": 0,
+      "chars": 20
+    },
+    {
+      "index": 767,
+      "start": 38934,
+      "end": 38942,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Purpose",
+      "words": 0,
+      "chars": 7
+    },
+    {
+      "index": 769,
+      "start": 38943,
+      "end": 38969,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Mean Absolute Error (MAE)",
+      "words": 0,
+      "chars": 25
+    },
+    {
+      "index": 770,
+      "start": 38969,
+      "end": 39030,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Average of absolute differences between predicted and actual",
+      "words": 8,
+      "chars": 60
+    },
+    {
+      "index": 771,
+      "start": 39030,
+      "end": 39037,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "values",
+      "words": 0,
+      "chars": 6
+    },
+    {
+      "index": 772,
+      "start": 39037,
+      "end": 39071,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Measures average prediction error",
+      "words": 0,
+      "chars": 33
+    },
+    {
+      "index": 774,
+      "start": 39072,
+      "end": 39103,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Root Mean Squared Error (RMSE)",
+      "words": 0,
+      "chars": 30
+    },
+    {
+      "index": 775,
+      "start": 39103,
+      "end": 39145,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Square root of the mean of squared errors",
+      "words": 0,
+      "chars": 41
+    },
+    {
+      "index": 776,
+      "start": 39145,
+      "end": 39169,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Penalizes larger errors",
+      "words": 0,
+      "chars": 23
+    },
+    {
+      "index": 778,
+      "start": 39170,
+      "end": 39210,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "R² Score (Coefficient of Determination)",
+      "words": 0,
+      "chars": 39
+    },
+    {
+      "index": 779,
+      "start": 39210,
+      "end": 39261,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "1 – (Sum of squared errors / Total sum of squares)",
+      "words": 0,
+      "chars": 50
+    },
+    {
+      "index": 780,
+      "start": 39261,
+      "end": 39315,
+      "page": 34,
+      "style": "Table Paragraph",
+      "text": "Indicates model’s ability to explain variance in data",
+      "words": 0,
+      "chars": 53
+    },
+    {
+      "index": 783,
+      "start": 39317,
+      "end": 39330,
+      "page": 35,
+      "style": "Heading 1",
+      "text": "CHAPTER- VII",
+      "words": 2,
+      "chars": 12
+    },
+    {
+      "index": 785,
+      "start": 39331,
+      "end": 39342,
+      "page": 35,
+      "style": "Heading 2",
+      "text": "CONCLUSION",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 787,
+      "start": 39343,
+      "end": 39354,
+      "page": 35,
+      "style": "List Paragraph",
+      "text": "CONCLUSION",
+      "words": 2,
+      "chars": 10
+    },
+    {
+      "index": 789,
+      "start": 39355,
+      "end": 40619,
+      "page": 35,
+      "style": "Body Text",
+      "text": "The Education Beyond Borders project successfully demonstrates the potential of technology to provide accessible, inclusive, and high-quality education to learners worldwide. By integrating online courses, virtual classrooms, multilingual content, interactive learning materials, and offline access, the platform effectively addresses geographical, socio-economic, and infrastructural barriers. The implementation of features such as student progress tracking, personalized recommendations, and teacher evaluation tools ensures a comprehensive learning experience, while administrative modules maintain system integrity, security, and analytics for continuous improvement. Testing and experimental results indicate that the system performs reliably under diverse conditions, supports high user engagement, and delivers educational content efficiently even in low-bandwidth environments. Overall, the platform fulfills its objective of promoting global collaboration, bridging learning gaps, and empowering students and educators across borders. Education Beyond Borders lays the foundation for future enhancements in digital education, offering a scalable and adaptable framework capable of evolving with changing educational needs and technological advancements.",
+      "words": 150,
+      "chars": 1263
+    },
+    {
+      "index": 791,
+      "start": 40620,
+      "end": 40634,
+      "page": 35,
+      "style": "Heading 2",
+      "text": "FUTURE SCOPE:",
+      "words": 3,
+      "chars": 13
+    },
+    {
+      "index": 793,
+      "start": 40635,
+      "end": 40669,
+      "page": 35,
+      "style": "Heading 5",
+      "text": "Expansion of Multilingual Support",
+      "words": 4,
+      "chars": 33
+    },
+    {
+      "index": 795,
+      "start": 40670,
+      "end": 40758,
+      "page": 35,
+      "style": "Body Text",
+      "text": "Incorporate additional languages and regional dialects to reach more learners globally.",
+      "words": 11,
+      "chars": 87
+    },
+    {
+      "index": 797,
+      "start": 40759,
+      "end": 40805,
+      "page": 35,
+      "style": "Heading 5",
+      "text": "Integration of AI-Based Personalized Learning",
+      "words": 5,
+      "chars": 45
+    },
+    {
+      "index": 799,
+      "start": 40806,
+      "end": 40944,
+      "page": 35,
+      "style": "Body Text",
+      "text": "Implement AI-driven recommendation systems to suggest courses, modules, and learning paths based on individual performance and interests.",
+      "words": 17,
+      "chars": 137
+    },
+    {
+      "index": 801,
+      "start": 40945,
+      "end": 40970,
+      "page": 35,
+      "style": "Heading 5",
+      "text": "Gamification of Learning",
+      "words": 3,
+      "chars": 24
+    },
+    {
+      "index": 803,
+      "start": 40971,
+      "end": 41061,
+      "page": 35,
+      "style": "Body Text",
+      "text": "Introduce badges, leaderboards, and rewards to increase student engagement and motivation",
+      "words": 11,
+      "chars": 89
+    },
+    {
+      "index": 805,
+      "start": 41062,
+      "end": 41086,
+      "page": 35,
+      "style": "Heading 5",
+      "text": "Mobile App Enhancements",
+      "words": 3,
+      "chars": 23
+    },
+    {
+      "index": 807,
+      "start": 41087,
+      "end": 41202,
+      "page": 35,
+      "style": "Body Text",
+      "text": "Develop lightweight mobile applications for offline-first experiences and enhanced performance on low-end devices.",
+      "words": 13,
+      "chars": 114
+    },
+    {
+      "index": 809,
+      "start": 41203,
+      "end": 41214,
+      "page": 36,
+      "style": "Heading 2",
+      "text": "REFERENCES",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 811,
+      "start": 41215,
+      "end": 41381,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "Alavi, M., & Leidner, D. E. (2001). Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues. MIS Quarterly, 25(1), 107–136.",
+      "words": 24,
+      "chars": 165
+    },
+    {
+      "index": 813,
+      "start": 41382,
+      "end": 41520,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "Bonk, C. J., & Zhang, K. (2008). Empowering Online Learning: 100+ Activities for Reading, Reflecting, Displaying, and Doing. Jossey-Bass.",
+      "words": 20,
+      "chars": 137
+    },
+    {
+      "index": 815,
+      "start": 41521,
+      "end": 41673,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "Siemens, G. (2005). Connectivism: A Learning Theory for the Digital Age. International Journal of Instructional Technology and Distance Learning, 2(1).",
+      "words": 21,
+      "chars": 151
+    },
+    {
+      "index": 817,
+      "start": 41674,
+      "end": 41818,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "Pappano, L. (2012). The Year of the MOOC. The New York Times. Retrieved from https://www.nytimes.com",
+      "words": 16,
+      "chars": 100
+    },
+    {
+      "index": 819,
+      "start": 41819,
+      "end": 41955,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "UNESCO. (2019). Open Educational Resources (OER) – Policy Guidelines. United Nations Educational, Scientific and Cultural Organization.",
+      "words": 16,
+      "chars": 135
+    },
+    {
+      "index": 821,
+      "start": 41956,
+      "end": 42031,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "Anderson, T. (2008). The Theory and Practice of Online Learning. AU Press.",
+      "words": 13,
+      "chars": 74
+    },
+    {
+      "index": 823,
+      "start": 42032,
+      "end": 42166,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "Dhawan, S. (2020). Online Learning: A Panacea in the Time of COVID-19 Crisis. Journal of Educational Technology Systems, 49(1), 5–22.",
+      "words": 22,
+      "chars": 133
+    },
+    {
+      "index": 825,
+      "start": 42167,
+      "end": 42359,
+      "page": 36,
+      "style": "List Paragraph",
+      "text": "Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education. The Internet and Higher Education, 2(2–3), 87–105.",
+      "words": 30,
+      "chars": 191
+    },
+    {
+      "index": 827,
+      "start": 42360,
+      "end": 42372,
+      "page": 37,
+      "style": "Heading 2",
+      "text": "SOURCE CODE",
+      "words": 2,
+      "chars": 11
+    },
+    {
+      "index": 828,
+      "start": 42372,
+      "end": 42383,
+      "page": 37,
+      "style": "Heading 3",
+      "text": "Index.html",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 829,
+      "start": 42383,
+      "end": 42399,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<!doctype html>",
+      "words": 2,
+      "chars": 15
+    },
+    {
+      "index": 831,
+      "start": 42400,
+      "end": 42417,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<html lang=\"en\">",
+      "words": 2,
+      "chars": 16
+    },
+    {
+      "index": 833,
+      "start": 42418,
+      "end": 42425,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<head>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 835,
+      "start": 42426,
+      "end": 42449,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<meta charset=\"utf-8\">",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 837,
+      "start": 42450,
+      "end": 42519,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "words": 4,
+      "chars": 68
+    },
+    {
+      "index": 839,
+      "start": 42520,
+      "end": 42567,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<title>Education Beyond Borders - Home</title>",
+      "words": 5,
+      "chars": 46
+    },
+    {
+      "index": 841,
+      "start": 42568,
+      "end": 42610,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<link rel=\"stylesheet\" href=\"styles.css\">",
+      "words": 3,
+      "chars": 41
+    },
+    {
+      "index": 843,
+      "start": 42611,
+      "end": 42619,
+      "page": 37,
+      "style": "Body Text",
+      "text": "</head>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 847,
+      "start": 42622,
+      "end": 42629,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<body>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 851,
+      "start": 42632,
+      "end": 42661,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<header class=\"site-header\">",
+      "words": 2,
+      "chars": 28
+    },
+    {
+      "index": 853,
+      "start": 42662,
+      "end": 42686,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<div class=\"container\">",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 855,
+      "start": 42687,
+      "end": 42744,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<h1 class=\"logo\">Education Beyond Borders Institute</h1>",
+      "words": 5,
+      "chars": 56
+    },
+    {
+      "index": 857,
+      "start": 42745,
+      "end": 42768,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<nav class=\"main-nav\">",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 859,
+      "start": 42769,
+      "end": 42799,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<a href=\"index.html\">Home</a>",
+      "words": 2,
+      "chars": 29
+    },
+    {
+      "index": 861,
+      "start": 42800,
+      "end": 42835,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<a href=\"courses.html\">Courses</a>",
+      "words": 2,
+      "chars": 34
+    },
+    {
+      "index": 863,
+      "start": 42836,
+      "end": 42869,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<a href=\"signup.html\">Signup</a>",
+      "words": 2,
+      "chars": 32
+    },
+    {
+      "index": 865,
+      "start": 42870,
+      "end": 42901,
+      "page": 37,
+      "style": "Body Text",
+      "text": "<a href=\"login.html\">Login</a>",
+      "words": 2,
+      "chars": 30
+    },
+    {
+      "index": 867,
+      "start": 42902,
+      "end": 42909,
+      "page": 37,
+      "style": "Body Text",
+      "text": "</nav>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 869,
+      "start": 42910,
+      "end": 42917,
+      "page": 37,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 871,
+      "start": 42918,
+      "end": 42928,
+      "page": 38,
+      "style": "Body Text",
+      "text": "</header>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 875,
+      "start": 42931,
+      "end": 42954,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<section class=\"hero\">",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 877,
+      "start": 42955,
+      "end": 42979,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<div class=\"container\">",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 879,
+      "start": 42980,
+      "end": 43010,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<h2>Learn Without Limits</h2>",
+      "words": 3,
+      "chars": 29
+    },
+    {
+      "index": 881,
+      "start": 43011,
+      "end": 43092,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<p>Access world-class courses, expert instructors, and global opportunities.</p>",
+      "words": 8,
+      "chars": 80
+    },
+    {
+      "index": 883,
+      "start": 43093,
+      "end": 43148,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<a href=\"signup.html\" class=\"btn-primary\">Join Now</a>",
+      "words": 4,
+      "chars": 54
+    },
+    {
+      "index": 885,
+      "start": 43149,
+      "end": 43156,
+      "page": 38,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 887,
+      "start": 43157,
+      "end": 43168,
+      "page": 38,
+      "style": "Body Text",
+      "text": "</section>",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 891,
+      "start": 43171,
+      "end": 43208,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<section class=\"features container\">",
+      "words": 3,
+      "chars": 36
+    },
+    {
+      "index": 893,
+      "start": 43209,
+      "end": 43233,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<h2>Why Choose Us?</h2>",
+      "words": 3,
+      "chars": 23
+    },
+    {
+      "index": 895,
+      "start": 43234,
+      "end": 43261,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<div class=\"feature-grid\">",
+      "words": 2,
+      "chars": 26
+    },
+    {
+      "index": 897,
+      "start": 43262,
+      "end": 43288,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<div class=\"feature-box\">",
+      "words": 2,
+      "chars": 25
+    },
+    {
+      "index": 899,
+      "start": 43289,
+      "end": 43315,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<h3>\tGlobal Learning</h3>",
+      "words": 3,
+      "chars": 25
+    },
+    {
+      "index": 901,
+      "start": 43316,
+      "end": 43395,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<p>Access learning material created by global educators and professionals.</p>",
+      "words": 9,
+      "chars": 78
+    },
+    {
+      "index": 903,
+      "start": 43396,
+      "end": 43403,
+      "page": 38,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 907,
+      "start": 43406,
+      "end": 43432,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<div class=\"feature-box\">",
+      "words": 2,
+      "chars": 25
+    },
+    {
+      "index": 909,
+      "start": 43433,
+      "end": 43456,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<h3>\t100+ Courses</h3>",
+      "words": 3,
+      "chars": 22
+    },
+    {
+      "index": 911,
+      "start": 43457,
+      "end": 43519,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<p>Wide range of cloud, tech, AI, and management courses.</p>",
+      "words": 9,
+      "chars": 61
+    },
+    {
+      "index": 913,
+      "start": 43520,
+      "end": 43527,
+      "page": 38,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 917,
+      "start": 43530,
+      "end": 43556,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<div class=\"feature-box\">",
+      "words": 2,
+      "chars": 25
+    },
+    {
+      "index": 919,
+      "start": 43557,
+      "end": 43580,
+      "page": 38,
+      "style": "Body Text",
+      "text": "<h3>\tCertificates</h3>",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 921,
+      "start": 43581,
+      "end": 43651,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<p>Earn verified certificates to boost your career and portfolio.</p>",
+      "words": 9,
+      "chars": 69
+    },
+    {
+      "index": 923,
+      "start": 43652,
+      "end": 43659,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 927,
+      "start": 43662,
+      "end": 43688,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<div class=\"feature-box\">",
+      "words": 2,
+      "chars": 25
+    },
+    {
+      "index": 929,
+      "start": 43689,
+      "end": 43713,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<h3>\tLearn Anytime</h3>",
+      "words": 3,
+      "chars": 23
+    },
+    {
+      "index": 931,
+      "start": 43714,
+      "end": 43771,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<p>Self-paced and flexible learning accessible 24/7.</p>",
+      "words": 6,
+      "chars": 56
+    },
+    {
+      "index": 933,
+      "start": 43772,
+      "end": 43779,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 935,
+      "start": 43780,
+      "end": 43787,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 937,
+      "start": 43788,
+      "end": 43799,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</section>",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 941,
+      "start": 43802,
+      "end": 43837,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<section class=\"banner container\">",
+      "words": 3,
+      "chars": 34
+    },
+    {
+      "index": 943,
+      "start": 43838,
+      "end": 43880,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<img src=\"banner.jpg\" class=\"banner-img\">",
+      "words": 3,
+      "chars": 41
+    },
+    {
+      "index": 945,
+      "start": 43881,
+      "end": 43892,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</section>",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 949,
+      "start": 43895,
+      "end": 43924,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<footer class=\"site-footer\">",
+      "words": 2,
+      "chars": 28
+    },
+    {
+      "index": 951,
+      "start": 43925,
+      "end": 43949,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<div class=\"container\">",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 953,
+      "start": 43950,
+      "end": 44021,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<p>© 2025 Education Beyond Borders Institute. All rights reserved.</p>",
+      "words": 9,
+      "chars": 70
+    },
+    {
+      "index": 955,
+      "start": 44022,
+      "end": 44029,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 957,
+      "start": 44030,
+      "end": 44040,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</footer>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 961,
+      "start": 44043,
+      "end": 44077,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<script src=\"script.js\"></script>",
+      "words": 2,
+      "chars": 33
+    },
+    {
+      "index": 963,
+      "start": 44078,
+      "end": 44086,
+      "page": 39,
+      "style": "Body Text",
+      "text": "</body>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 965,
+      "start": 44087,
+      "end": 44108,
+      "page": 39,
+      "style": "Normal",
+      "text": "</html>B.SIGNUP.HTML",
+      "words": 1,
+      "chars": 20
+    },
+    {
+      "index": 967,
+      "start": 44109,
+      "end": 44125,
+      "page": 39,
+      "style": "Body Text",
+      "text": "<!doctype html>",
+      "words": 2,
+      "chars": 15
+    },
+    {
+      "index": 969,
+      "start": 44126,
+      "end": 44143,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<html lang=\"en\">",
+      "words": 2,
+      "chars": 16
+    },
+    {
+      "index": 971,
+      "start": 44144,
+      "end": 44151,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<head>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 973,
+      "start": 44152,
+      "end": 44175,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<meta charset=\"utf-8\">",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 975,
+      "start": 44176,
+      "end": 44245,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "words": 4,
+      "chars": 68
+    },
+    {
+      "index": 977,
+      "start": 44246,
+      "end": 44290,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<title>Create Your Account - Signup</title>",
+      "words": 5,
+      "chars": 43
+    },
+    {
+      "index": 979,
+      "start": 44291,
+      "end": 44333,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<link rel=\"stylesheet\" href=\"styles.css\">",
+      "words": 3,
+      "chars": 41
+    },
+    {
+      "index": 981,
+      "start": 44334,
+      "end": 44342,
+      "page": 40,
+      "style": "Body Text",
+      "text": "</head>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 985,
+      "start": 44345,
+      "end": 44352,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<body>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 989,
+      "start": 44355,
+      "end": 44384,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<header class=\"site-header\">",
+      "words": 2,
+      "chars": 28
+    },
+    {
+      "index": 991,
+      "start": 44385,
+      "end": 44409,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<div class=\"container\">",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 993,
+      "start": 44410,
+      "end": 44467,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<h1 class=\"logo\">Education Beyond Borders Institute</h1>",
+      "words": 5,
+      "chars": 56
+    },
+    {
+      "index": 995,
+      "start": 44468,
+      "end": 44491,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<nav class=\"main-nav\">",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 997,
+      "start": 44492,
+      "end": 44522,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<a href=\"index.html\">Home</a>",
+      "words": 2,
+      "chars": 29
+    },
+    {
+      "index": 999,
+      "start": 44523,
+      "end": 44558,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<a href=\"courses.html\">Courses</a>",
+      "words": 2,
+      "chars": 34
+    },
+    {
+      "index": 1001,
+      "start": 44559,
+      "end": 44590,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<a href=\"login.html\">Login</a>",
+      "words": 2,
+      "chars": 30
+    },
+    {
+      "index": 1003,
+      "start": 44591,
+      "end": 44598,
+      "page": 40,
+      "style": "Body Text",
+      "text": "</nav>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1005,
+      "start": 44599,
+      "end": 44606,
+      "page": 40,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1007,
+      "start": 44607,
+      "end": 44617,
+      "page": 40,
+      "style": "Body Text",
+      "text": "</header>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1011,
+      "start": 44620,
+      "end": 44663,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<section class=\"signup-section container\">",
+      "words": 3,
+      "chars": 42
+    },
+    {
+      "index": 1013,
+      "start": 44664,
+      "end": 44690,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<div class=\"signup-left\">",
+      "words": 2,
+      "chars": 25
+    },
+    {
+      "index": 1015,
+      "start": 44691,
+      "end": 44725,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<h2>Create Your Free Account</h2>",
+      "words": 4,
+      "chars": 33
+    },
+    {
+      "index": 1017,
+      "start": 44726,
+      "end": 44798,
+      "page": 40,
+      "style": "Body Text",
+      "text": "<p>Join thousands of learners and unlock access to premium content.</p>",
+      "words": 10,
+      "chars": 71
+    },
+    {
+      "index": 1019,
+      "start": 44799,
+      "end": 44839,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<form class=\"form-box\" id=\"signupForm\">",
+      "words": 3,
+      "chars": 39
+    },
+    {
+      "index": 1021,
+      "start": 44840,
+      "end": 44865,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<label>Full Name</label>",
+      "words": 2,
+      "chars": 24
+    },
+    {
+      "index": 1023,
+      "start": 44866,
+      "end": 44925,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<input type=\"text\" placeholder=\"Enter your name\" required>",
+      "words": 6,
+      "chars": 58
+    },
+    {
+      "index": 1027,
+      "start": 44928,
+      "end": 44949,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<label>Email</label>",
+      "words": 1,
+      "chars": 20
+    },
+    {
+      "index": 1029,
+      "start": 44950,
+      "end": 45011,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<input type=\"email\" placeholder=\"Enter your email\" required>",
+      "words": 6,
+      "chars": 60
+    },
+    {
+      "index": 1033,
+      "start": 45014,
+      "end": 45038,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<label>Password</label>",
+      "words": 1,
+      "chars": 23
+    },
+    {
+      "index": 1035,
+      "start": 45039,
+      "end": 45104,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<input type=\"password\" placeholder=\"Create a password\" required>",
+      "words": 6,
+      "chars": 64
+    },
+    {
+      "index": 1039,
+      "start": 45107,
+      "end": 45139,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<label>Confirm Password</label>",
+      "words": 2,
+      "chars": 31
+    },
+    {
+      "index": 1041,
+      "start": 45140,
+      "end": 45205,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<input type=\"password\" placeholder=\"Re-enter password\" required>",
+      "words": 5,
+      "chars": 64
+    },
+    {
+      "index": 1045,
+      "start": 45208,
+      "end": 45231,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<label>Country</label>",
+      "words": 1,
+      "chars": 22
+    },
+    {
+      "index": 1047,
+      "start": 45232,
+      "end": 45250,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<select required>",
+      "words": 2,
+      "chars": 17
+    },
+    {
+      "index": 1049,
+      "start": 45251,
+      "end": 45274,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<option>India</option>",
+      "words": 1,
+      "chars": 22
+    },
+    {
+      "index": 1051,
+      "start": 45275,
+      "end": 45306,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<option>United States</option>",
+      "words": 2,
+      "chars": 30
+    },
+    {
+      "index": 1053,
+      "start": 45307,
+      "end": 45339,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<option>United Kingdom</option>",
+      "words": 2,
+      "chars": 31
+    },
+    {
+      "index": 1055,
+      "start": 45340,
+      "end": 45367,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<option>Australia</option>",
+      "words": 1,
+      "chars": 26
+    },
+    {
+      "index": 1057,
+      "start": 45368,
+      "end": 45391,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<option>Other</option>",
+      "words": 1,
+      "chars": 22
+    },
+    {
+      "index": 1059,
+      "start": 45392,
+      "end": 45402,
+      "page": 41,
+      "style": "Body Text",
+      "text": "</select>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1063,
+      "start": 45405,
+      "end": 45430,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<label>Interests</label>",
+      "words": 1,
+      "chars": 24
+    },
+    {
+      "index": 1065,
+      "start": 45431,
+      "end": 45440,
+      "page": 41,
+      "style": "Body Text",
+      "text": "<select>",
+      "words": 1,
+      "chars": 8
+    },
+    {
+      "index": 1067,
+      "start": 45441,
+      "end": 45474,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<option>Cloud Computing</option>",
+      "words": 2,
+      "chars": 32
+    },
+    {
+      "index": 1069,
+      "start": 45475,
+      "end": 45515,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<option>Full-Stack Development</option>",
+      "words": 2,
+      "chars": 39
+    },
+    {
+      "index": 1071,
+      "start": 45516,
+      "end": 45548,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<option>Cyber Security</option>",
+      "words": 2,
+      "chars": 31
+    },
+    {
+      "index": 1073,
+      "start": 45549,
+      "end": 45574,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<option>AI / ML</option>",
+      "words": 3,
+      "chars": 24
+    },
+    {
+      "index": 1075,
+      "start": 45575,
+      "end": 45612,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<option>Business Management</option>",
+      "words": 2,
+      "chars": 36
+    },
+    {
+      "index": 1077,
+      "start": 45613,
+      "end": 45623,
+      "page": 42,
+      "style": "Body Text",
+      "text": "</select>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1081,
+      "start": 45626,
+      "end": 45692,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<button class=\"btn-primary\" type=\"submit\">Create Account</button>",
+      "words": 4,
+      "chars": 65
+    },
+    {
+      "index": 1083,
+      "start": 45693,
+      "end": 45701,
+      "page": 42,
+      "style": "Body Text",
+      "text": "</form>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 1085,
+      "start": 45702,
+      "end": 45709,
+      "page": 42,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1089,
+      "start": 45712,
+      "end": 45739,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<div class=\"signup-right\">",
+      "words": 2,
+      "chars": 26
+    },
+    {
+      "index": 1091,
+      "start": 45740,
+      "end": 45789,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<img src=\"signup_banner.jpg\" class=\"signup-img\">",
+      "words": 3,
+      "chars": 48
+    },
+    {
+      "index": 1093,
+      "start": 45790,
+      "end": 45812,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<h3>Why Join Us?</h3>",
+      "words": 3,
+      "chars": 21
+    },
+    {
+      "index": 1095,
+      "start": 45813,
+      "end": 45818,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<ul>",
+      "words": 1,
+      "chars": 4
+    },
+    {
+      "index": 1097,
+      "start": 45819,
+      "end": 45860,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<li>✔ Get access to premium courses</li>",
+      "words": 6,
+      "chars": 40
+    },
+    {
+      "index": 1099,
+      "start": 45861,
+      "end": 45890,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<li>✔ Earn certificates</li>",
+      "words": 3,
+      "chars": 28
+    },
+    {
+      "index": 1101,
+      "start": 45891,
+      "end": 45930,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<li>✔ Learn from industry experts</li>",
+      "words": 5,
+      "chars": 38
+    },
+    {
+      "index": 1103,
+      "start": 45931,
+      "end": 45968,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<li>✔ Global learning community</li>",
+      "words": 4,
+      "chars": 36
+    },
+    {
+      "index": 1105,
+      "start": 45969,
+      "end": 45975,
+      "page": 42,
+      "style": "Body Text",
+      "text": "</ul>",
+      "words": 1,
+      "chars": 5
+    },
+    {
+      "index": 1107,
+      "start": 45976,
+      "end": 45983,
+      "page": 42,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1109,
+      "start": 45984,
+      "end": 45995,
+      "page": 42,
+      "style": "Body Text",
+      "text": "</section>",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 1113,
+      "start": 45998,
+      "end": 46027,
+      "page": 42,
+      "style": "Body Text",
+      "text": "<footer class=\"site-footer\">",
+      "words": 2,
+      "chars": 28
+    },
+    {
+      "index": 1115,
+      "start": 46028,
+      "end": 46052,
+      "page": 43,
+      "style": "Body Text",
+      "text": "<div class=\"container\">",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 1117,
+      "start": 46053,
+      "end": 46103,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<p>© 2025 Education Beyond Borders Institute.</p>",
+      "words": 6,
+      "chars": 49
+    },
+    {
+      "index": 1119,
+      "start": 46104,
+      "end": 46111,
+      "page": 44,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1121,
+      "start": 46112,
+      "end": 46122,
+      "page": 44,
+      "style": "Body Text",
+      "text": "</footer>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1125,
+      "start": 46125,
+      "end": 46150,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<!-- Redirect Script -->",
+      "words": 5,
+      "chars": 24
+    },
+    {
+      "index": 1127,
+      "start": 46151,
+      "end": 46160,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<script>",
+      "words": 1,
+      "chars": 8
+    },
+    {
+      "index": 1129,
+      "start": 46161,
+      "end": 46268,
+      "page": 44,
+      "style": "Body Text",
+      "text": "document.getElementById(\"signupForm\").addEventListener(\"submit\", function(event) { event.preventDefault();",
+      "words": 4,
+      "chars": 106
+    },
+    {
+      "index": 1130,
+      "start": 46268,
+      "end": 46305,
+      "page": 44,
+      "style": "Body Text",
+      "text": "window.location.href = \"login.html\";",
+      "words": 3,
+      "chars": 36
+    },
+    {
+      "index": 1132,
+      "start": 46306,
+      "end": 46310,
+      "page": 44,
+      "style": "Normal",
+      "text": "});",
+      "words": 1,
+      "chars": 3
+    },
+    {
+      "index": 1134,
+      "start": 46311,
+      "end": 46321,
+      "page": 44,
+      "style": "Body Text",
+      "text": "</script>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1138,
+      "start": 46324,
+      "end": 46332,
+      "page": 44,
+      "style": "Body Text",
+      "text": "</body>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 1140,
+      "start": 46333,
+      "end": 46341,
+      "page": 44,
+      "style": "Body Text",
+      "text": "</html>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 1142,
+      "start": 46342,
+      "end": 46355,
+      "page": 44,
+      "style": "Heading 2",
+      "text": "C.LOGIN.HTML",
+      "words": 1,
+      "chars": 12
+    },
+    {
+      "index": 1145,
+      "start": 46357,
+      "end": 46373,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<!doctype html>",
+      "words": 2,
+      "chars": 15
+    },
+    {
+      "index": 1147,
+      "start": 46374,
+      "end": 46391,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<html lang=\"en\">",
+      "words": 2,
+      "chars": 16
+    },
+    {
+      "index": 1149,
+      "start": 46392,
+      "end": 46399,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<head>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1151,
+      "start": 46400,
+      "end": 46423,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<meta charset=\"utf-8\">",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 1153,
+      "start": 46424,
+      "end": 46493,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "words": 4,
+      "chars": 68
+    },
+    {
+      "index": 1155,
+      "start": 46494,
+      "end": 46542,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<title>Login - Education Beyond Borders</title>",
+      "words": 5,
+      "chars": 47
+    },
+    {
+      "index": 1157,
+      "start": 46543,
+      "end": 46585,
+      "page": 44,
+      "style": "Body Text",
+      "text": "<link rel=\"stylesheet\" href=\"styles.css\">",
+      "words": 3,
+      "chars": 41
+    },
+    {
+      "index": 1159,
+      "start": 46586,
+      "end": 46594,
+      "page": 44,
+      "style": "Body Text",
+      "text": "</head>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 1161,
+      "start": 46595,
+      "end": 46602,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<body>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1165,
+      "start": 46605,
+      "end": 46634,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<header class=\"site-header\">",
+      "words": 2,
+      "chars": 28
+    },
+    {
+      "index": 1167,
+      "start": 46635,
+      "end": 46659,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<div class=\"container\">",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 1169,
+      "start": 46660,
+      "end": 46717,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<h1 class=\"logo\">Education Beyond Borders Institute</h1>",
+      "words": 5,
+      "chars": 56
+    },
+    {
+      "index": 1171,
+      "start": 46718,
+      "end": 46741,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<nav class=\"main-nav\">",
+      "words": 2,
+      "chars": 22
+    },
+    {
+      "index": 1173,
+      "start": 46742,
+      "end": 46772,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<a href=\"index.html\">Home</a>",
+      "words": 2,
+      "chars": 29
+    },
+    {
+      "index": 1175,
+      "start": 46773,
+      "end": 46806,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<a href=\"signup.html\">Signup</a>",
+      "words": 2,
+      "chars": 32
+    },
+    {
+      "index": 1177,
+      "start": 46807,
+      "end": 46814,
+      "page": 45,
+      "style": "Body Text",
+      "text": "</nav>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1179,
+      "start": 46815,
+      "end": 46822,
+      "page": 45,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1181,
+      "start": 46823,
+      "end": 46833,
+      "page": 45,
+      "style": "Body Text",
+      "text": "</header>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1185,
+      "start": 46836,
+      "end": 46878,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<section class=\"login-section container\">",
+      "words": 3,
+      "chars": 41
+    },
+    {
+      "index": 1187,
+      "start": 46879,
+      "end": 46910,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<h2>Login to Your Account</h2>",
+      "words": 4,
+      "chars": 30
+    },
+    {
+      "index": 1189,
+      "start": 46911,
+      "end": 46950,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<form class=\"form-box\" id=\"loginForm\">",
+      "words": 3,
+      "chars": 38
+    },
+    {
+      "index": 1191,
+      "start": 46951,
+      "end": 46972,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<label>Email</label>",
+      "words": 1,
+      "chars": 20
+    },
+    {
+      "index": 1193,
+      "start": 46973,
+      "end": 47034,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<input type=\"email\" placeholder=\"Enter your email\" required>",
+      "words": 6,
+      "chars": 60
+    },
+    {
+      "index": 1197,
+      "start": 47037,
+      "end": 47061,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<label>Password</label>",
+      "words": 1,
+      "chars": 23
+    },
+    {
+      "index": 1199,
+      "start": 47062,
+      "end": 47124,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<input type=\"password\" placeholder=\"Enter password\" required>",
+      "words": 5,
+      "chars": 61
+    },
+    {
+      "index": 1203,
+      "start": 47127,
+      "end": 47184,
+      "page": 45,
+      "style": "Body Text",
+      "text": "<button class=\"btn-primary\" type=\"submit\">Login</button>",
+      "words": 3,
+      "chars": 56
+    },
+    {
+      "index": 1205,
+      "start": 47185,
+      "end": 47193,
+      "page": 45,
+      "style": "Body Text",
+      "text": "</form>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 1207,
+      "start": 47194,
+      "end": 47205,
+      "page": 45,
+      "style": "Body Text",
+      "text": "</section>",
+      "words": 1,
+      "chars": 10
+    },
+    {
+      "index": 1209,
+      "start": 47206,
+      "end": 47235,
+      "page": 46,
+      "style": "Body Text",
+      "text": "<footer class=\"site-footer\">",
+      "words": 2,
+      "chars": 28
+    },
+    {
+      "index": 1211,
+      "start": 47236,
+      "end": 47260,
+      "page": 46,
+      "style": "Body Text",
+      "text": "<div class=\"container\">",
+      "words": 2,
+      "chars": 23
+    },
+    {
+      "index": 1213,
+      "start": 47261,
+      "end": 47311,
+      "page": 46,
+      "style": "Body Text",
+      "text": "<p>© 2025 Education Beyond Borders Institute.</p>",
+      "words": 6,
+      "chars": 49
+    },
+    {
+      "index": 1215,
+      "start": 47312,
+      "end": 47319,
+      "page": 46,
+      "style": "Body Text",
+      "text": "</div>",
+      "words": 1,
+      "chars": 6
+    },
+    {
+      "index": 1217,
+      "start": 47320,
+      "end": 47330,
+      "page": 46,
+      "style": "Body Text",
+      "text": "</footer>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1221,
+      "start": 47333,
+      "end": 47364,
+      "page": 46,
+      "style": "Body Text",
+      "text": "<!-- Redirect to Home Page -->",
+      "words": 7,
+      "chars": 30
+    },
+    {
+      "index": 1223,
+      "start": 47365,
+      "end": 47374,
+      "page": 46,
+      "style": "Body Text",
+      "text": "<script>",
+      "words": 1,
+      "chars": 8
+    },
+    {
+      "index": 1225,
+      "start": 47375,
+      "end": 47481,
+      "page": 46,
+      "style": "Body Text",
+      "text": "document.getElementById(\"loginForm\").addEventListener(\"submit\", function(event) { event.preventDefault();",
+      "words": 4,
+      "chars": 105
+    },
+    {
+      "index": 1226,
+      "start": 47481,
+      "end": 47543,
+      "page": 46,
+      "style": "Body Text",
+      "text": "window.location.href = \"index.html\"; // Redirect to home page",
+      "words": 8,
+      "chars": 61
+    },
+    {
+      "index": 1228,
+      "start": 47544,
+      "end": 47548,
+      "page": 46,
+      "style": "Normal",
+      "text": "});",
+      "words": 1,
+      "chars": 3
+    },
+    {
+      "index": 1230,
+      "start": 47549,
+      "end": 47559,
+      "page": 46,
+      "style": "Body Text",
+      "text": "</script>",
+      "words": 1,
+      "chars": 9
+    },
+    {
+      "index": 1234,
+      "start": 47562,
+      "end": 47570,
+      "page": 46,
+      "style": "Body Text",
+      "text": "</body>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 1236,
+      "start": 47571,
+      "end": 47579,
+      "page": 46,
+      "style": "Body Text",
+      "text": "</html>",
+      "words": 1,
+      "chars": 7
+    },
+    {
+      "index": 1238,
+      "start": 47580,
+      "end": 47594,
+      "page": 46,
+      "style": "Heading 2",
+      "text": "D. STYLES.CSS",
+      "words": 2,
+      "chars": 13
+    },
+    {
+      "index": 1240,
+      "start": 47595,
+      "end": 47613,
+      "page": 46,
+      "style": "Body Text",
+      "text": "body { margin: 0;",
+      "words": 4,
+      "chars": 17
+    },
+    {
+      "index": 1241,
+      "start": 47613,
+      "end": 47666,
+      "page": 46,
+      "style": "Body Text",
+      "text": "font-family: Arial, sans-serif; background: #f5f5f5;",
+      "words": 5,
+      "chars": 52
+    },
+    {
+      "index": 1242,
+      "start": 47666,
+      "end": 47668,
+      "page": 46,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1244,
+      "start": 47669,
+      "end": 47708,
+      "page": 47,
+      "style": "Body Text",
+      "text": ".container { width: 90%; margin: auto;",
+      "words": 6,
+      "chars": 38
+    },
+    {
+      "index": 1245,
+      "start": 47708,
+      "end": 47710,
+      "page": 47,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1249,
+      "start": 47713,
+      "end": 47763,
+      "page": 47,
+      "style": "Body Text",
+      "text": ".site-header { background: #1a237e; color: white;",
+      "words": 6,
+      "chars": 49
+    },
+    {
+      "index": 1250,
+      "start": 47763,
+      "end": 47780,
+      "page": 47,
+      "style": "Body Text",
+      "text": "padding: 15px 0;",
+      "words": 3,
+      "chars": 16
+    },
+    {
+      "index": 1252,
+      "start": 47781,
+      "end": 47783,
+      "page": 47,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1256,
+      "start": 47786,
+      "end": 47805,
+      "page": 47,
+      "style": "Body Text",
+      "text": ".logo { margin: 0;",
+      "words": 4,
+      "chars": 18
+    },
+    {
+      "index": 1257,
+      "start": 47805,
+      "end": 47807,
+      "page": 47,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1261,
+      "start": 47810,
+      "end": 47838,
+      "page": 47,
+      "style": "Body Text",
+      "text": ".main-nav a { color: white;",
+      "words": 5,
+      "chars": 27
+    },
+    {
+      "index": 1262,
+      "start": 47838,
+      "end": 47900,
+      "page": 47,
+      "style": "Body Text",
+      "text": "margin-right: 20px; text-decoration: none; font-weight: bold;",
+      "words": 6,
+      "chars": 61
+    },
+    {
+      "index": 1263,
+      "start": 47900,
+      "end": 47902,
+      "page": 47,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1265,
+      "start": 47903,
+      "end": 47911,
+      "page": 48,
+      "style": "Body Text",
+      "text": ".hero {",
+      "words": 2,
+      "chars": 7
+    },
+    {
+      "index": 1267,
+      "start": 47912,
+      "end": 47964,
+      "page": 48,
+      "style": "Body Text",
+      "text": "padding: 60px 0; background: #3949ab; color: white;",
+      "words": 7,
+      "chars": 51
+    },
+    {
+      "index": 1268,
+      "start": 47964,
+      "end": 47984,
+      "page": 48,
+      "style": "Body Text",
+      "text": "text-align: center;",
+      "words": 2,
+      "chars": 19
+    },
+    {
+      "index": 1270,
+      "start": 47985,
+      "end": 47987,
+      "page": 48,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1274,
+      "start": 47990,
+      "end": 48074,
+      "page": 48,
+      "style": "Body Text",
+      "text": ".btn-primary { background: #ff9800; color: white; padding: 12px 20px; border: none;",
+      "words": 11,
+      "chars": 83
+    },
+    {
+      "index": 1275,
+      "start": 48074,
+      "end": 48111,
+      "page": 48,
+      "style": "Body Text",
+      "text": "cursor: pointer; border-radius: 6px;",
+      "words": 4,
+      "chars": 36
+    },
+    {
+      "index": 1276,
+      "start": 48111,
+      "end": 48113,
+      "page": 48,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1280,
+      "start": 48116,
+      "end": 48147,
+      "page": 48,
+      "style": "Body Text",
+      "text": ".feature-grid { display: grid;",
+      "words": 4,
+      "chars": 30
+    },
+    {
+      "index": 1281,
+      "start": 48147,
+      "end": 48197,
+      "page": 48,
+      "style": "Body Text",
+      "text": "grid-template-columns: repeat(2, 1fr); gap: 20px;",
+      "words": 5,
+      "chars": 49
+    },
+    {
+      "index": 1282,
+      "start": 48197,
+      "end": 48199,
+      "page": 48,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1284,
+      "start": 48200,
+      "end": 48270,
+      "page": 49,
+      "style": "Body Text",
+      "text": ".feature-box { background: white; padding: 20px; border-radius: 12px;",
+      "words": 8,
+      "chars": 69
+    },
+    {
+      "index": 1285,
+      "start": 48270,
+      "end": 48308,
+      "page": 49,
+      "style": "Body Text",
+      "text": "box-shadow: 0 0 10px rgba(0,0,0,0.1);",
+      "words": 5,
+      "chars": 37
+    },
+    {
+      "index": 1287,
+      "start": 48309,
+      "end": 48311,
+      "page": 49,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1291,
+      "start": 48314,
+      "end": 48327,
+      "page": 49,
+      "style": "Body Text",
+      "text": ".banner-img,",
+      "words": 1,
+      "chars": 12
+    },
+    {
+      "index": 1293,
+      "start": 48328,
+      "end": 48355,
+      "page": 49,
+      "style": "Body Text",
+      "text": ".signup-img { width: 100%;",
+      "words": 4,
+      "chars": 26
+    },
+    {
+      "index": 1294,
+      "start": 48355,
+      "end": 48376,
+      "page": 49,
+      "style": "Body Text",
+      "text": "border-radius: 12px;",
+      "words": 2,
+      "chars": 20
+    },
+    {
+      "index": 1296,
+      "start": 48377,
+      "end": 48379,
+      "page": 49,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1300,
+      "start": 48382,
+      "end": 48426,
+      "page": 49,
+      "style": "Body Text",
+      "text": ".signup-section { display: flex; gap: 30px;",
+      "words": 6,
+      "chars": 43
+    },
+    {
+      "index": 1301,
+      "start": 48426,
+      "end": 48444,
+      "page": 49,
+      "style": "Body Text",
+      "text": "margin-top: 30px;",
+      "words": 2,
+      "chars": 17
+    },
+    {
+      "index": 1303,
+      "start": 48445,
+      "end": 48447,
+      "page": 49,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1307,
+      "start": 48450,
+      "end": 48492,
+      "page": 49,
+      "style": "Body Text",
+      "text": ".signup-left, .signup-right { width: 50%;",
+      "words": 5,
+      "chars": 41
+    },
+    {
+      "index": 1308,
+      "start": 48492,
+      "end": 48494,
+      "page": 49,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1310,
+      "start": 48495,
+      "end": 48512,
+      "page": 50,
+      "style": "Body Text",
+      "text": ".form-box input,",
+      "words": 2,
+      "chars": 16
+    },
+    {
+      "index": 1312,
+      "start": 48513,
+      "end": 48601,
+      "page": 50,
+      "style": "Body Text",
+      "text": ".form-box select { width: 100%; padding: 10px; margin-bottom: 12px; border-radius: 6px;",
+      "words": 11,
+      "chars": 87
+    },
+    {
+      "index": 1313,
+      "start": 48601,
+      "end": 48625,
+      "page": 50,
+      "style": "Body Text",
+      "text": "border: 1px solid #ccc;",
+      "words": 4,
+      "chars": 23
+    },
+    {
+      "index": 1315,
+      "start": 48626,
+      "end": 48628,
+      "page": 50,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1319,
+      "start": 48631,
+      "end": 48646,
+      "page": 50,
+      "style": "Body Text",
+      "text": ".site-footer {",
+      "words": 2,
+      "chars": 14
+    },
+    {
+      "index": 1321,
+      "start": 48647,
+      "end": 48702,
+      "page": 50,
+      "style": "Body Text",
+      "text": "text-align: center; background: #1a237e; color: white;",
+      "words": 6,
+      "chars": 54
+    },
+    {
+      "index": 1322,
+      "start": 48702,
+      "end": 48737,
+      "page": 50,
+      "style": "Body Text",
+      "text": "padding: 15px 0; margin-top: 40px;",
+      "words": 5,
+      "chars": 34
+    },
+    {
+      "index": 1323,
+      "start": 48737,
+      "end": 48739,
+      "page": 50,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1327,
+      "start": 48742,
+      "end": 48772,
+      "page": 50,
+      "style": "Body Text",
+      "text": ".course-grid { display: grid;",
+      "words": 4,
+      "chars": 29
+    },
+    {
+      "index": 1328,
+      "start": 48772,
+      "end": 48811,
+      "page": 50,
+      "style": "Body Text",
+      "text": "grid-template-columns: repeat(3, 1fr);",
+      "words": 3,
+      "chars": 38
+    },
+    {
+      "index": 1330,
+      "start": 48812,
+      "end": 48823,
+      "page": 50,
+      "style": "Body Text",
+      "text": "gap: 25px;",
+      "words": 2,
+      "chars": 10
+    },
+    {
+      "index": 1332,
+      "start": 48824,
+      "end": 48842,
+      "page": 51,
+      "style": "Body Text",
+      "text": "margin-top: 30px;",
+      "words": 2,
+      "chars": 17
+    },
+    {
+      "index": 1334,
+      "start": 48843,
+      "end": 48845,
+      "page": 51,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1338,
+      "start": 48848,
+      "end": 48917,
+      "page": 51,
+      "style": "Body Text",
+      "text": ".course-box { background: white; padding: 20px; border-radius: 12px;",
+      "words": 8,
+      "chars": 68
+    },
+    {
+      "index": 1339,
+      "start": 48917,
+      "end": 48975,
+      "page": 51,
+      "style": "Body Text",
+      "text": "box-shadow: 0 0 12px rgba(0,0,0,0.1); text-align: center;",
+      "words": 7,
+      "chars": 57
+    },
+    {
+      "index": 1340,
+      "start": 48975,
+      "end": 48977,
+      "page": 51,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    },
+    {
+      "index": 1344,
+      "start": 48980,
+      "end": 49041,
+      "page": 51,
+      "style": "Body Text",
+      "text": ".course-img { width: 100%; height: 160px; object-fit: cover;",
+      "words": 8,
+      "chars": 60
+    },
+    {
+      "index": 1345,
+      "start": 49041,
+      "end": 49083,
+      "page": 51,
+      "style": "Body Text",
+      "text": "border-radius: 10px; margin-bottom: 15px;",
+      "words": 4,
+      "chars": 41
+    },
+    {
+      "index": 1346,
+      "start": 49083,
+      "end": 49085,
+      "page": 51,
+      "style": "Normal",
+      "text": "}",
+      "words": 1,
+      "chars": 1
+    }
+  ],
+  "pageWords": [
+    {
+      "page": 13,
+      "words": 204
+    },
+    {
+      "page": 14,
+      "words": 211
+    },
+    {
+      "page": 15,
+      "words": 173
+    },
+    {
+      "page": 16,
+      "words": 207
+    },
+    {
+      "page": 17,
+      "words": 245
+    },
+    {
+      "page": 18,
+      "words": 224
+    },
+    {
+      "page": 19,
+      "words": 190
+    },
+    {
+      "page": 20,
+      "words": 207
+    },
+    {
+      "page": 21,
+      "words": 89
+    },
+    {
+      "page": 22,
+      "words": 162
+    },
+    {
+      "page": 23,
+      "words": 191
+    },
+    {
+      "page": 24,
+      "words": 115
+    },
+    {
+      "page": 25,
+      "words": 49
+    },
+    {
+      "page": 26,
+      "words": 28
+    },
+    {
+      "page": 27,
+      "words": 76
+    },
+    {
+      "page": 28,
+      "words": 207
+    },
+    {
+      "page": 29,
+      "words": 162
+    },
+    {
+      "page": 30,
+      "words": 212
+    },
+    {
+      "page": 31,
+      "words": 104
+    },
+    {
+      "page": 32,
+      "words": 217
+    },
+    {
+      "page": 33,
+      "words": 182
+    },
+    {
+      "page": 34,
+      "words": 194
+    },
+    {
+      "page": 35,
+      "words": 225
+    },
+    {
+      "page": 36,
+      "words": 163
+    },
+    {
+      "page": 37,
+      "words": 45
+    },
+    {
+      "page": 38,
+      "words": 64
+    },
+    {
+      "page": 39,
+      "words": 52
+    },
+    {
+      "page": 40,
+      "words": 58
+    },
+    {
+      "page": 41,
+      "words": 45
+    },
+    {
+      "page": 42,
+      "words": 50
+    },
+    {
+      "page": 43,
+      "words": 2
+    },
+    {
+      "page": 44,
+      "words": 46
+    },
+    {
+      "page": 45,
+      "words": 47
+    },
+    {
+      "page": 46,
+      "words": 48
+    },
+    {
+      "page": 47,
+      "words": 34
+    },
+    {
+      "page": 48,
+      "words": 38
+    },
+    {
+      "page": 49,
+      "words": 37
+    },
+    {
+      "page": 50,
+      "words": 41
+    },
+    {
+      "page": 51,
+      "words": 32
+    }
+  ],
+  "totalWords": 6232,
+  "totalPages": 51
+}

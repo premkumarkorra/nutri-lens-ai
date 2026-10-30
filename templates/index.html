@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriScan AI — Ingredient-to-Food-Product Identification & Recommendation Engine</title>
+    <link rel="icon" type="image/svg+xml" href="{{ url_for('static', filename='images/favicon.svg') }}">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/modern-ui.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/luxury-ui.css') }}">
+</head>
+<body>
+    
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo" id="nav-logo">
+                <div class="logo-mark">
+                    <i class="fa-solid fa-leaf"></i>
+                </div>
+                <span class="logo-text">Nutri<span class="logo-accent">Scan</span></span>
+            </div>
+            
+            <!-- Guest Nav Items -->
+            <div class="nav-links" id="guest-nav">
+                <button class="btn btn-outline" id="btn-show-login"><i class="fa-solid fa-arrow-right-to-bracket"></i> Sign In</button>
+                <button class="btn btn-primary" id="btn-show-register"><i class="fa-solid fa-user-plus"></i> Sign Up Free</button>
+            </div>
+            
+            <!-- Auth Nav Items -->
+            <div class="nav-links hidden" id="auth-nav">
+                <a href="#" class="nav-item active" data-target="view-scan"><i class="fa-solid fa-barcode"></i> Identify & Scan</a>
+                <a href="#" class="nav-item" data-target="view-history"><i class="fa-solid fa-clock-rotate-left"></i> History</a>
+                <a href="#" class="nav-item" data-target="view-profile"><i class="fa-solid fa-user-gear"></i> Health Profile</a>
+                <span class="user-greeting" id="username-display"></span>
+                <button class="btn btn-outline btn-sm" id="btn-logout"><i class="fa-solid fa-right-from-bracket"></i> Logout</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast hidden"></div>
+
+    <!-- Main Content Container -->
+    <main class="main-content">
+        
+        <!-- SECTION 1: LANDING PAGE -->
+        <section id="view-landing" class="view-section">
+            <div class="hero-container">
+                <div class="hero-content">
+                    <div class="badge-pill"><span class="badge-spark"></span> Your personal food intelligence</div>
+                    <h1>Eat with <span class="text-gradient">confidence.</span><br>Know what’s inside.</h1>
+                    <p class="hero-lead">Scan any ingredient label. See what the product is, what it means for your health profile, and what you could choose instead.</p>
+                    <div class="hero-actions">
+                        <button class="btn btn-primary btn-lg" id="hero-get-started">Start your free scan <i class="fa-solid fa-arrow-right"></i></button>
+                        <button class="btn btn-outline btn-lg" id="hero-sign-in">Sign in</button>
+                    </div>
+                    <div class="hero-proofline" aria-label="NutriScan highlights">
+                        <div><strong>01</strong><span>Know the product</span></div>
+                        <div><strong>02</strong><span>Check your profile</span></div>
+                        <div><strong>03</strong><span>Find a better pick</span></div>
+                    </div>
+                </div>
+                <div class="hero-visual">
+                    <div class="hero-orbit orbit-one"></div>
+                    <div class="hero-orbit orbit-two"></div>
+                    <div class="hero-score-float"><span class="score-icon"><i class="fa-solid fa-shield-heart"></i></span><span><strong>Made personal</strong><small>Allergens & goals checked</small></span></div>
+                    <div class="product-match-card-demo">
+                        <div class="demo-badge-row">
+                            <span class="badge-match-exact"><i class="fa-solid fa-circle-check"></i> Exact Match</span>
+                            <span class="badge-verified"><i class="fa-solid fa-shield-check"></i> Verified Packaging</span>
+                        </div>
+                        <h3 class="demo-product-title">Lay's Classic Potato Chips</h3>
+                        <p class="demo-brand-sub">Brand: Lay's (PepsiCo) · Category: Savory Snacks</p>
+                        <div class="demo-ingredients-row">
+                            <span class="ing-tag">Potato</span>
+                            <span class="ing-tag">Edible Vegetable Oil</span>
+                            <span class="ing-tag">Salt</span>
+                        </div>
+                        <div class="demo-alt-box">
+                            <div class="alt-label"><i class="fa-solid fa-leaf"></i> Recommended Finished Alternative</div>
+                            <div class="alt-val">Too Yumm! Baked Potato Chips (Classic Salted)</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Presets Bar for Instant Try on Landing -->
+            <div class="landing-presets-strip">
+                <div class="presets-header">
+                    <h4><i class="fa-solid fa-bolt"></i> Try Instant Ingredient Signatures:</h4>
+                </div>
+                <div class="preset-chips-grid">
+                    <button class="btn-preset-chip" data-preset="lays"><i class="fa-solid fa-cookie"></i> Lay's Classic Chips</button>
+                    <button class="btn-preset-chip" data-preset="kurkure"><i class="fa-solid fa-pepper-hot"></i> Kurkure Masala Munch</button>
+                    <button class="btn-preset-chip" data-preset="maggi"><i class="fa-solid fa-bowl-food"></i> Maggi 2-Min Noodles</button>
+                    <button class="btn-preset-chip" data-preset="oreo"><i class="fa-solid fa-cookie-bite"></i> Oreo Sandwich Cookies</button>
+                    <button class="btn-preset-chip" data-preset="cadbury"><i class="fa-solid fa-cubes-stacked"></i> Cadbury Dairy Milk</button>
+                    <button class="btn-preset-chip" data-preset="nutella"><i class="fa-solid fa-jar"></i> Nutella Spread</button>
+                    <button class="btn-preset-chip" data-preset="insufficient"><i class="fa-solid fa-question"></i> Insufficient Info Test</button>
+                </div>
+            </div>
+
+            <!-- How It Works Section -->
+            <div id="how-it-works" class="how-it-works-section">
+                <h2 class="section-title">Engine Architecture & Verification</h2>
+                <p class="section-subtitle">A high-fidelity engine prioritizing factual accuracy and real-world commercial finished products.</p>
+                
+                <div class="stepper-grid">
+                    <div class="step-card">
+                        <div class="step-num">1</div>
+                        <h3>Normalization & Synonyms</h3>
+                        <p>Cleans text, strips E-numbers / INS codes, extracts sub-ingredients, and maps regional aliases.</p>
+                    </div>
+                    <div class="step-card">
+                        <div class="step-num">2</div>
+                        <h3>Signature Matcher</h3>
+                        <p>Compares ingredient combinations against verified packaged market product databases.</p>
+                    </div>
+                    <div class="step-card">
+                        <div class="step-num">3</div>
+                        <h3>Anti-Hallucination Gate</h3>
+                        <p>Assigns exact confidence levels (Exact, Strong, Likely, Possible, Insufficient). Never guesses without evidence.</p>
+                    </div>
+                    <div class="step-card">
+                        <div class="step-num">4</div>
+                        <h3>Finished Alternatives</h3>
+                        <p>Recommends recognizable commercial finished food products—never individual raw ingredients.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Disclaimer Notice -->
+            <div class="disclaimer-banner">
+                <i class="fa-solid fa-shield-halved disclaimer-icon"></i>
+                <div>
+                    <h4>Factual Accuracy & Safety Assurance</h4>
+                    <p>This engine identifies commercial products based on published ingredient formulations. It distinguishes between Exact, Strong, Likely, Possible, and Insufficient matches. Always cross-reference physical packaging declarations.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: AUTHENTICATION MODALS/PAGES -->
+        <section id="view-auth" class="view-section hidden">
+            <div class="auth-card">
+                <div class="auth-tabs">
+                    <button class="auth-tab active" id="tab-login">Sign In</button>
+                    <button class="auth-tab" id="tab-register">Register</button>
+                </div>
+                
+                <!-- Login Form -->
+                <form id="form-login" class="auth-form">
+                    <h3 class="auth-title">Welcome Back</h3>
+                    <div class="form-group">
+                        <label for="login-username">Username</label>
+                        <div class="input-wrapper">
+                            <i class="fa-solid fa-user"></i>
+                            <input type="text" id="login-username" required placeholder="Enter username">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="login-password">Password</label>
+                        <div class="input-wrapper">
+                            <i class="fa-solid fa-lock"></i>
+                            <input type="password" id="login-password" required placeholder="Enter password">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Log In</button>
+                    <p class="auth-switch">Don't have an account? <a href="#" id="link-to-register">Register here</a></p>
+                </form>
+
+                <!-- Register Form with Health Profile -->
+                <form id="form-register" class="auth-form hidden">
+                    <h3 class="auth-title">Create Account & Health Profile</h3>
+                    <p class="panel-subtitle" style="margin-top: -10px; margin-bottom: 20px; font-size: 0.85rem;">Set up your profile once to get personalized product safety alerts on every scan.</p>
+                    
+                    <div class="form-group">
+                        <label for="reg-username"><i class="fa-solid fa-user"></i> Username</label>
+                        <div class="input-wrapper">
+                            <i class="fa-solid fa-user"></i>
+                            <input type="text" id="reg-username" required placeholder="Choose a username">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-password"><i class="fa-solid fa-lock"></i> Password</label>
+                        <div class="input-wrapper">
+                            <i class="fa-solid fa-lock"></i>
+                            <input type="password" id="reg-password" required minlength="6" placeholder="At least 6 characters">
+                        </div>
+                    </div>
+
+                    <!-- Profile Section: Demographics & Diet -->
+                    <div class="form-row" style="margin-top: 15px;">
+                        <div class="form-group">
+                            <label for="reg-age"><i class="fa-solid fa-calendar"></i> Age Range</label>
+                            <select id="reg-age" class="form-select">
+                                <option value="Under 18">Under 18</option>
+                                <option value="18-24">18-24</option>
+                                <option value="25-34" selected>25-34</option>
+                                <option value="35-44">35-44</option>
+                                <option value="45-54">45-54</option>
+                                <option value="55+">55+</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Diet Toggles -->
+                    <div class="diet-toggles-grid" style="margin-bottom: 18px;">
+                        <label class="toggle-card">
+                            <input type="checkbox" id="reg-vegetarian">
+                            <div class="toggle-content">
+                                <i class="fa-solid fa-carrot"></i>
+                                <strong>Vegetarian</strong>
+                                <span>Exclude meat & seafood</span>
+                            </div>
+                        </label>
+                        <label class="toggle-card">
+                            <input type="checkbox" id="reg-non-vegetarian">
+                            <div class="toggle-content">
+                                <i class="fa-solid fa-drumstick-bite"></i>
+                                <strong>Non-Vegetarian</strong>
+                                <span>Includes meat and seafood</span>
+                            </div>
+                        </label>
+                    </div>
+
+                    <!-- Core Allergies -->
+                    <div class="form-group-section" style="margin-bottom: 18px;">
+                        <label style="font-weight: 700; margin-bottom: 8px; display: block; font-size: 0.88rem;">
+                            <i class="fa-solid fa-shrimp" style="color: var(--danger);"></i> Core Allergens to Flag:
+                        </label>
+                        <div class="allergies-checkboxes" id="reg-allergies-container">
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Milk"><span>Milk</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Egg"><span>Egg</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Peanut"><span>Peanut</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Tree nuts"><span>Tree nuts</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Soy"><span>Soy</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Wheat/gluten"><span>Wheat/Gluten</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Fish"><span>Fish</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Shellfish"><span>Shellfish</span></label>
+                            <label class="checkbox-pill"><input type="checkbox" name="reg-allergies" value="Sesame"><span>Sesame</span></label>
+                        </div>
+                    </div>
+
+                    <!-- Dietary Health Goals -->
+                    <div class="form-group-section" style="margin-bottom: 18px;">
+                        <label style="font-weight: 700; margin-bottom: 8px; display: block; font-size: 0.88rem;">
+                            <i class="fa-solid fa-heart-pulse" style="color: var(--primary-accent);"></i> Dietary Health Goals:
+                        </label>
+                        <div class="preferences-checkboxes">
+                            <label class="checkbox-pill">
+                                <input type="checkbox" name="reg-preferences" value="Low Sugar">
+                                <span><i class="fa-solid fa-apple-slice"></i> Low Sugar</span>
+                            </label>
+                            <label class="checkbox-pill">
+                                <input type="checkbox" name="reg-preferences" value="Low Sodium">
+                                <span><i class="fa-solid fa-droplet-slash"></i> Low Sodium</span>
+                            </label>
+                            <label class="checkbox-pill">
+                                <input type="checkbox" name="reg-preferences" value="Organic">
+                                <span><i class="fa-solid fa-leaf"></i> Organic Preference</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Ingredients to Avoid -->
+                    <div class="form-group-section" style="margin-bottom: 22px;">
+                        <label style="font-weight: 700; margin-bottom: 4px; display: block; font-size: 0.88rem;">
+                            <i class="fa-solid fa-ban" style="color: var(--warning);"></i> Custom Ingredients to Avoid:
+                        </label>
+                        <p class="tag-instruction" style="font-size: 0.8rem; margin-bottom: 8px;">Type an ingredient name and click Add (e.g. MSG, Palm Oil, Gelatin, Artificial Flavor).</p>
+                        <div class="tag-input-container">
+                            <input type="text" id="reg-avoid-input" placeholder="e.g. MSG, Gelatin, Palm Oil...">
+                            <button type="button" class="btn btn-outline btn-sm" id="btn-reg-add-avoid-tag">Add</button>
+                        </div>
+                        <div class="tags-wrapper" id="reg-avoid-tags-container" style="margin-top: 8px;"></div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-block btn-lg"><i class="fa-solid fa-user-check"></i> Complete Registration & Start Scanning</button>
+                    <p class="auth-switch">Already registered? <a href="#" id="link-to-login">Sign in here</a></p>
+                </form>
+            </div>
+        </section>
+
+        <!-- SECTION 3: SCAN & INGREDIENT IDENTIFICATION STUDIO -->
+        <section id="view-scan" class="view-section hidden">
+            <div class="scan-studio-header">
+                <div>
+                    <span class="eyebrow">YOUR FOOD, DECODED</span>
+                    <h1>Make every label <span>make sense.</span></h1>
+                    <p>Type a list or scan a package. We’ll match the product and check it against your personal profile.</p>
+                </div>
+                <div class="scan-header-seal"><i class="fa-solid fa-leaf"></i><span>Ingredient<br>intelligence</span></div>
+            </div>
+            
+            <!-- Preset Quick-Select Toolbar -->
+            <div class="presets-toolbar">
+                <span class="presets-label"><i class="fa-solid fa-bolt" style="color: var(--warning);"></i> Instant Presets:</span>
+                <div class="preset-buttons-container">
+                    <button type="button" class="btn-preset-chip" data-preset="lays"><i class="fa-solid fa-cookie"></i> Lay's Classic</button>
+                    <button type="button" class="btn-preset-chip" data-preset="kurkure"><i class="fa-solid fa-pepper-hot"></i> Kurkure Munch</button>
+                    <button type="button" class="btn-preset-chip" data-preset="maggi"><i class="fa-solid fa-bowl-food"></i> Maggi Noodles</button>
+                    <button type="button" class="btn-preset-chip" data-preset="oreo"><i class="fa-solid fa-cookie-bite"></i> Oreo Cookies</button>
+                    <button type="button" class="btn-preset-chip" data-preset="cadbury"><i class="fa-solid fa-cubes-stacked"></i> Dairy Milk</button>
+                    <button type="button" class="btn-preset-chip" data-preset="nutella"><i class="fa-solid fa-jar"></i> Nutella Spread</button>
+                    <button type="button" class="btn-preset-chip" data-preset="amul"><i class="fa-solid fa-cheese"></i> Amul Butter</button>
+                    <button type="button" class="btn-preset-chip" data-preset="ketchup"><i class="fa-solid fa-bottle-droplet"></i> Kissan Ketchup</button>
+                    <button type="button" class="btn-preset-chip" data-preset="insufficient"><i class="fa-solid fa-question"></i> Insufficient Test</button>
+                </div>
+            </div>
+
+            <div class="dashboard-grid">
+                
+                <!-- Left panel: Text / Image Input Mode Switcher -->
+                <div class="panel-card">
+                    <div class="panel-header-tabs">
+                        <button class="input-tab-btn active" id="tab-input-text"><i class="fa-solid fa-keyboard"></i> Type / Paste Ingredients</button>
+                        <button class="input-tab-btn" id="tab-input-ocr"><i class="fa-solid fa-camera"></i> Scan Package Label</button>
+                    </div>
+
+                    <!-- Direct Text Input Mode -->
+                    <div id="mode-text-container" class="input-mode-panel">
+                        <div class="form-group">
+                            <label for="direct-ingredients-input">
+                                <i class="fa-solid fa-list"></i> Enter Ingredients List (e.g. <code>Ingredients: Potato, Salt, Oil...</code>):
+                            </label>
+                            <textarea id="direct-ingredients-input" rows="8" placeholder="Ingredients: Potato, Edible Vegetable Oil (Palmolein), Salt..." class="input-enhanced"></textarea>
+                            <p class="hint-text">Input can be comma-separated, formatted as <code>Ingredients: ...</code>, or pasted from food packaging labels.</p>
+                        </div>
+                    </div>
+                    
+                    <!-- OCR Image Upload Mode -->
+                    <div id="mode-ocr-container" class="input-mode-panel hidden">
+                        <div class="upload-zone" id="drop-zone">
+                            <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
+                            <h3>Upload food packaging label photo</h3>
+                            <p>PNG, JPG, JPEG, WEBP or GIF · Up to 8 MB</p>
+                            <div class="upload-actions">
+                                <label class="btn btn-outline" for="file-upload">
+                                    <i class="fa-solid fa-file-image"></i> Browse Files
+                                </label>
+                                <input type="file" id="file-upload" class="hidden" accept="image/png,image/jpeg,image/webp,image/gif">
+                                
+                                <button class="btn btn-primary" id="btn-use-camera">
+                                    <i class="fa-solid fa-camera-retro"></i> Use Camera
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Camera container -->
+                        <div id="camera-container" class="camera-wrapper hidden">
+                            <video id="webcam" autoplay playsinline></video>
+                            <div class="camera-controls">
+                                <button class="btn btn-danger" id="btn-cancel-camera">Cancel</button>
+                                <button class="btn btn-success" id="btn-capture-photo"><i class="fa-solid fa-circle"></i> Capture</button>
+                            </div>
+                        </div>
+
+                        <!-- Image Preview container -->
+                        <div id="image-preview-container" class="preview-container hidden">
+                            <div class="preview-header">
+                                <h4>Selected Label Image</h4>
+                                <button class="btn-close" id="btn-remove-image"><i class="fa-solid fa-xmark"></i></button>
+                            </div>
+                            <img id="image-preview" src="" alt="Label preview">
+                            <button class="btn btn-primary btn-block" id="btn-run-ocr">
+                                <i class="fa-solid fa-magnifying-glass"></i> Extract Text from Image
+                            </button>
+                        </div>
+
+                        <!-- Loading / Processing state -->
+                        <div id="ocr-loading" class="loading-container hidden">
+                            <div class="spinner"></div>
+                            <h3 id="loading-status">Reading label text...</h3>
+                            <p class="loading-subtitle">Extracting printed ingredient lines</p>
+                        </div>
+                    </div>
+
+                    <button class="btn btn-success btn-lg btn-block" id="btn-trigger-identification" style="margin-top: 1.5rem;">
+                        <i class="fa-solid fa-wand-magic-sparkles"></i> Identify Product & Recommend Alternative
+                    </button>
+                </div>
+
+                <!-- Right panel: Quick Engine Rule Checklist & Guidance -->
+                <div class="panel-card engine-rules-panel">
+                    <h3 class="panel-title"><i class="fa-solid fa-shield-halved" style="color: var(--primary);"></i> Engine Operating Guidelines</h3>
+                    <ul class="engine-rules-list">
+                        <li>
+                            <i class="fa-solid fa-check-circle rule-icon-check"></i>
+                            <div>
+                                <strong>Real-World Product Identification:</strong>
+                                <span>Identifies specific commercial products and brands based on ingredient signatures.</span>
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check-circle rule-icon-check"></i>
+                            <div>
+                                <strong>Finished Product Alternatives Only:</strong>
+                                <span>Strictly recommends recognizable finished food products (e.g. <em>Lay's Classic, Oreo Original</em>), never raw ingredients (e.g. <em>❌ "use rice"</em>).</span>
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check-circle rule-icon-check"></i>
+                            <div>
+                                <strong>Anti-Hallucination Protection:</strong>
+                                <span>If ingredients are insufficient or generic, marks as <code>Insufficient</code> rather than fabricating a brand.</span>
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-check-circle rule-icon-check"></i>
+                            <div>
+                                <strong>Match Confidence Categories:</strong>
+                                <span>Clearly distinguishes Exact, Strong, Likely, Possible, and Insufficient matches.</span>
+                            </div>
+                        </li>
+                    </ul>
+
+                    <div class="engine-status-indicator">
+                        <span class="status-dot online"></span>
+                        <span>Engine Status: Active & Factual Priority Enforced</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: IDENTIFICATION & RECOMMENDATION RESULTS VIEW -->
+        <section id="view-analysis" class="view-section hidden">
+            <div class="analysis-header-bar">
+                <button class="btn btn-outline" id="btn-back-to-scan"><i class="fa-solid fa-chevron-left"></i> New Identification</button>
+                <h2>Identification & Recommendation Report</h2>
+                <div class="action-buttons-group">
+                    <button class="btn btn-outline btn-sm" id="btn-view-json"><i class="fa-solid fa-code"></i> View Raw JSON</button>
+                    <button class="btn btn-primary btn-sm" id="btn-copy-json"><i class="fa-solid fa-copy"></i> Copy JSON</button>
+                </div>
+            </div>
+
+            <!-- Identified Product Master Card -->
+            <div class="product-identity-card" id="product-master-card">
+                <div class="identity-card-top">
+                    <div class="match-level-badge-container">
+                        <span class="match-badge" id="res-match-level">Exact Match</span>
+                        <span class="verification-badge" id="res-verified-badge"><i class="fa-solid fa-certificate"></i> Verified Packaging</span>
+                    </div>
+                    <div class="category-pill" id="res-category">Potato Chips & Savory Snacks</div>
+                </div>
+                
+                <h1 class="identified-product-title" id="res-product-name">Lay's Classic Potato Chips</h1>
+                <div class="identified-brand" id="res-product-brand">Brand: Lay's (PepsiCo)</div>
+                
+                <div class="reasoning-box" id="res-reasoning-box">
+                    <i class="fa-solid fa-lightbulb-on reasoning-icon"></i>
+                    <div>
+                        <strong>Why It Matches:</strong>
+                        <p id="res-reasoning-text">Matches signature combination: Potato, Edible Vegetable Oil, and Salt.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="personal-safety-summary hidden" id="personal-safety-summary" aria-live="polite">
+                <div class="safety-summary-heading">
+                    <span class="safety-summary-icon"><i class="fa-solid fa-heart-pulse"></i></span>
+                    <div>
+                        <span class="eyebrow">PERSONALIZED SCREENING</span>
+                        <h3 id="res-safety-status">Your health profile check</h3>
+                    </div>
+                </div>
+                <p id="res-safety-summary"></p>
+                <div class="safety-findings" id="res-safety-findings"></div>
+            </div>
+
+            <!-- Dual Column Content -->
+            <div class="dashboard-grid" style="margin-top: 1.5rem;">
+                
+                <!-- Left Column: Product Review -->
+                <div class="panel-card">
+                    <h3 class="panel-title"><i class="fa-solid fa-star-sharp-half-stroke"></i> Comprehensive Product Review</h3>
+                    
+                    <!-- Taste Profile -->
+                    <div class="review-block">
+                        <h4><i class="fa-solid fa-utensils"></i> Taste & Sensory Profile</h4>
+                        <p id="res-taste-profile" class="review-text-highlight">Crisp, light, lightly salted with a pure potato crunch.</p>
+                    </div>
+
+                    <!-- Pros & Cons Grid -->
+                    <div class="pros-cons-grid">
+                        <div class="pros-card">
+                            <h5><i class="fa-solid fa-circle-check" style="color: var(--success);"></i> Evidence-Based Pros</h5>
+                            <ul id="res-pros-list" class="review-list pros-list">
+                                <!-- Populated dynamically -->
+                            </ul>
+                        </div>
+                        <div class="cons-card">
+                            <h5><i class="fa-solid fa-triangle-exclamation" style="color: var(--danger);"></i> Evidence-Based Cons</h5>
+                            <ul id="res-cons-list" class="review-list cons-list">
+                                <!-- Populated dynamically -->
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Overall Balanced Review -->
+                    <div class="review-block overall-block">
+                        <h4><i class="fa-solid fa-scale-balanced"></i> Overall Assessment</h4>
+                        <p id="res-overall-review">A classic salted potato chip with a minimalist ingredient list.</p>
+                    </div>
+                </div>
+
+                <!-- Right Column: Recommended Alternative & Normalized Ingredients -->
+                <div class="panel-card">
+                    
+                    <!-- Highlighted Finished Food Product Alternative Card -->
+                    <div class="alternative-product-hero-card" id="res-alternative-card">
+                        <div class="alt-hero-header">
+                            <span class="alt-badge"><i class="fa-solid fa-sparkles"></i> Recommended Alternative Product</span>
+                            <span class="alt-rule-tag">Finished Food Product (Not Raw Ingredients)</span>
+                        </div>
+                        <h3 class="alt-product-title" id="res-alt-name">Too Yumm! Baked Potato Chips (Classic Salted)</h3>
+                        <div class="alt-product-brand" id="res-alt-brand">Brand: Too Yumm!</div>
+                        
+                        <div class="alt-reason-box">
+                            <strong><i class="fa-solid fa-circle-question"></i> Why This Alternative:</strong>
+                            <p id="res-alt-reason">Offers 40% less fat as a baked alternative without deep frying in palmolein, retaining classic salted flavor.</p>
+                        </div>
+                        <div class="organic-options-box">
+                            <strong>More organic options to explore</strong>
+                            <ul id="res-alt-options"></ul>
+                        </div>
+                    </div>
+
+                    <!-- Accuracy & Verification Note -->
+                    <div class="accuracy-note-box">
+                        <i class="fa-solid fa-circle-info"></i>
+                        <div>
+                            <strong>Accuracy & Safety Note</strong>
+                            <p id="res-accuracy-note">Verified from manufacturer packaging formulations. Always cross-reference physical packaging.</p>
+                        </div>
+                    </div>
+
+                    <!-- Detected Normalized Ingredients Chips -->
+                    <div class="ingredients-breakdown-box">
+                        <h4><i class="fa-solid fa-tags"></i> Normalized Input Ingredients (<span id="res-ing-count">0</span>)</h4>
+                        <div class="ingredient-chips-container" id="res-ingredient-chips">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 5: SCAN HISTORY VIEW -->
+        <section id="view-history" class="view-section hidden">
+            <div class="history-container">
+                <h2 class="section-title"><i class="fa-solid fa-clock-rotate-left"></i> Identification History</h2>
+                <p class="section-subtitle">Review previous ingredient product matches and recommendation reports.</p>
+                
+                <div id="history-empty-state" class="empty-state">
+                    <i class="fa-solid fa-folder-open empty-icon"></i>
+                    <p>No previous identifications found. Select "Identify & Scan" from the navigation to begin.</p>
+                </div>
+
+                <div class="history-grid" id="history-list-container">
+                    <!-- History cards populated dynamically -->
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 6: USER PROFILE VIEW -->
+        <section id="view-profile" class="view-section hidden">
+            <div class="profile-layout">
+                <div class="panel-card">
+                    <h2 class="panel-title"><i class="fa-solid fa-user-shield"></i> Personal Health & Dietary Profile</h2>
+                    <p class="panel-subtitle">Configure allergies, dietary restrictions, and health goals to customize safety checks.</p>
+                    
+                    <form id="form-profile">
+                        <!-- Demographics -->
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="profile-age">Age Range</label>
+                                <select id="profile-age" class="form-select">
+                                    <option value="Under 18">Under 18</option>
+                                    <option value="18-24">18-24</option>
+                                    <option value="25-34" selected>25-34</option>
+                                    <option value="35-44">35-44</option>
+                                    <option value="45-54">45-54</option>
+                                    <option value="55+">55+</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <!-- Diet status -->
+                        <div class="diet-toggles-grid">
+                            <label class="toggle-card">
+                                <input type="checkbox" id="profile-vegetarian">
+                                <div class="toggle-content">
+                                    <i class="fa-solid fa-carrot"></i>
+                                    <strong>Vegetarian</strong>
+                                    <span>Exclude meat and seafood</span>
+                                </div>
+                            </label>
+                            <label class="toggle-card">
+                                <input type="checkbox" id="profile-non-vegetarian">
+                                <div class="toggle-content">
+                                    <i class="fa-solid fa-drumstick-bite"></i>
+                                    <strong>Non-Vegetarian</strong>
+                                    <span>Includes meat and seafood</span>
+                                </div>
+                            </label>
+                        </div>
+
+                        <!-- Allergies checklist -->
+                        <div class="form-group-section">
+                            <h4><i class="fa-solid fa-shrimp"></i> Core Allergies</h4>
+                            <div class="allergies-checkboxes" id="profile-allergies-container">
+                                <!-- Populated dynamically -->
+                            </div>
+                        </div>
+
+                        <!-- Dietary preferences (Health goals) -->
+                        <div class="form-group-section">
+                            <h4><i class="fa-solid fa-heart-pulse"></i> Dietary Health Goals</h4>
+                            <div class="preferences-checkboxes">
+                                <label class="checkbox-pill">
+                                    <input type="checkbox" name="preferences" value="Low Sugar">
+                                    <span><i class="fa-solid fa-apple-slice"></i> Low Sugar</span>
+                                </label>
+                                <label class="checkbox-pill">
+                                    <input type="checkbox" name="preferences" value="Low Sodium">
+                                    <span><i class="fa-solid fa-droplet-slash"></i> Low Sodium</span>
+                                </label>
+                                <label class="checkbox-pill">
+                                    <input type="checkbox" name="preferences" value="Organic">
+                                    <span><i class="fa-solid fa-leaf"></i> Organic Preference</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Ingredients to avoid tag manager -->
+                        <div class="form-group-section">
+                            <h4><i class="fa-solid fa-ban"></i> Specific Ingredients to Avoid</h4>
+                            <p class="tag-instruction">Type an ingredient name (e.g. Gelatin, MSG, Artificial Flavor) and press Add.</p>
+                            
+                            <div class="tag-input-container">
+                                <input type="text" id="profile-avoid-input" placeholder="Type ingredient name...">
+                                <button type="button" class="btn btn-outline" id="btn-add-avoid-tag">Add</button>
+                            </div>
+                            <div class="tags-wrapper" id="profile-avoid-tags-container">
+                                <!-- Tags dynamically added here -->
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-success btn-lg btn-block"><i class="fa-solid fa-floppy-disk"></i> Save Profile Settings</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Raw JSON Modal -->
+    <div id="json-modal" class="modal-backdrop hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fa-solid fa-code"></i> Standard Output JSON (Engine Schema)</h3>
+                <button class="btn-close" id="btn-close-json-modal"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body">
+                <pre><code id="json-modal-code" class="json-code-block"></code></pre>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" id="btn-modal-copy-json"><i class="fa-solid fa-copy"></i> Copy JSON to Clipboard</button>
+                <button class="btn btn-outline" id="btn-modal-close">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2026 NutriScan AI. Ingredient-to-Food-Product Identification & Recommendation Engine.</p>
+            <p class="footer-note">Prioritizing factual accuracy, verified product matches, and finished-product alternatives.</p>
+        </div>
+    </footer>
+
+    <!-- App Logic Scripts -->
+    <script src="{{ url_for('static', filename='js/advanced-ui.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
